@@ -8,19 +8,6 @@ permalink: http://www.ayokafrica.com/test-sc/
 published: true
 post_date: 2018-07-20 00:40:53
 ---
-[velocity type="soundcloud" playlist="true" options="width="100%" height="300" scrolling="yes" frameborder="no" allow="autoplay"&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"" id="559531101" alt="Play" color="#FFFFFF" bkg_color="#000000"]
-
 &nbsp;
 
-&nbsp;
-
-[velocity type="soundcloud" id="474074355" alt="Play" color="#FFFFFF" bkg_color="#000000"]
-
-&nbsp;
-
-&nbsp;
-
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/474074355%3Fsecret_token%3Ds-zF5CN&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" height="300" frameborder="no" scrolling="no"></iframe>
-
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/565011219%3Fsecret_token%3Ds-qmkLX&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/565011219%3Fsecret_token%3Ds-qmkLX&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" height="300" frameborder="no" scrolling="no"></iframe>
