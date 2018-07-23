@@ -1,0 +1,12 @@
+---
+ID: 255
+post_title: Member Login
+author: Valery Lue
+post_excerpt: ""
+layout: page
+permalink: >
+  http://www.ayokafrica.com/membership-login/
+published: true
+post_date: 2018-07-23 15:51:58
+---
+[swpm_login_form]
