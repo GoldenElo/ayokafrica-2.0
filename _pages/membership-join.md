@@ -9,25 +9,24 @@ permalink: >
 published: true
 post_date: 2018-07-23 15:51:49
 ---
-<h2 style="text-align: center;">Abonnez vous et profiter d'un livre audio tous les mois</h2>
-<h3><span style="font-size: 2.1rem;">Vos deux premiers livres </span><span style="font-size: 29.4px;">audio</span><span style="font-size: 2.1rem;"> gratuit</span></h3>
+<h1 style="text-align: center;">Abonnez vous et profitez d'un livre gratuits tous les mois</h1>
 <div id="" class="bc-row-responsive bc-spacing-none">
 <div class="bc-col-responsive bc-col-6 bc-col-offset-0">
 <div id="" class="bc-row-responsive">
 <div class="bc-col-responsive bc-col-11">
-<p class="bc-text bc-spacing-none bc-spacing-top-none bc-size-base bc-color-secondary">Puis <strong>2€30 (soit 1500 FCFA)</strong> pour un livre audio de votre choix tous les mois.</p>
+<h2></h2>
+<h2>Vos deux premiers livres audio gratuit</h2>
+<h4 class="bc-text bc-spacing-none bc-spacing-top-none bc-size-base bc-color-secondary">Puis <strong>2€30 (soit 1500 FCFA)</strong> pour un livre audio de votre choix tous les mois.</h4>
 &nbsp;
-
+<h2>Profitez de nos réductions spéciales</h2>
 </div>
 </div>
 <div id="" class="bc-row-responsive">
 <div class="bc-col-responsive bc-col-11">
-<h3 class="bc-heading bc-color-base bc-size-medium">Profitez de nos réductions spéciales</h3>
-<p class="bc-heading bc-color-base bc-size-medium">Jusqu'à <strong>50%</strong> sur le prix des livres audio</p>
-&nbsp;
-<p class="bc-text bc-spacing-none bc-spacing-top-none bc-size-base bc-color-secondary"><span style="color: #54617a; font-size: 2.1rem;">Sans engagement</span></p>
-<p class="bc-text bc-spacing-none bc-spacing-top-none bc-size-base bc-color-secondary">Résiliez ou suspendez votre abonnement à tout moment.</p>
-
+<h4 class="bc-heading bc-color-base bc-size-medium">Jusqu'à <strong>50%</strong> sur le prix des livres audio.</h4>
+<h4></h4>
+<h2 class="bc-heading bc-color-base bc-size-medium">Sans engagement</h2>
+<h4 class="bc-heading bc-color-base bc-size-medium">Résiliez ou suspendez votre abonnement à tous quand vous voulez.</h4>
 </div>
 </div>
 </div>
