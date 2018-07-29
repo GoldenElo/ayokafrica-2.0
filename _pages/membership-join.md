@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-23 15:51:49
 ---
-<h1 style="text-align: center;">Abonnez vous et profitez d'un livre gratuits tous les mois</h1>
+<h1 style="text-align: center;">Abonnez vous et profitez d'un livre gratuit tous les mois</h1>
 <div id="" class="bc-row-responsive bc-spacing-none">
 <div class="bc-col-responsive bc-col-6 bc-col-offset-0">
 <div id="" class="bc-row-responsive">
