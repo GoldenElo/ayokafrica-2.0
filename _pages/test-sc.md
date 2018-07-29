@@ -17,4 +17,4 @@ Bibliothèque Client
 
 <div id="player">
 </div>
-[tonedenplayer dom="#player" skin="light" visualizertype="waves"]https://soundcloud.com/user-968947645/livre_audio1[/tonedenplayer]
+[tonedenplayer dom="#player" skin="light" visualizertype="waves"]https://soundcloud.com/vybz-kartel-5/vybz-kartel-coloring-book[/tonedenplayer]
