@@ -1,6 +1,6 @@
 ---
 ID: 254
-post_title: Registration
+post_title: ""
 author: Valery Lue
 post_excerpt: ""
 layout: page
