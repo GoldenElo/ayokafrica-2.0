@@ -14,8 +14,3 @@ Bibliothèque Client
 &nbsp;
 
 &nbsp;
-
-<div id="player">
-</div>
-[tonedenplayer dom="#player" skin="light" visualizertype="waves"]https://soundcloud.com/vybz-kartel-5/vybz-kartel-coloring-book[/tonedenplayer]
-[tonedenplayer dom="#player" urls="https://soundcloud.com/giraffage,https://soundcloud.com/flume/sintra"]
