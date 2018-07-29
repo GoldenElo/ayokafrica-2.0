@@ -18,7 +18,7 @@ post_date: 2018-07-23 15:51:49
 <h2></h2>
 <h2></h2>
 <h2>Vos deux premiers livres audio gratuit</h2>
-<h4 class="bc-text bc-spacing-none bc-spacing-top-none bc-size-base bc-color-secondary"><em>Puis <strong>2€30 (soit 1500 FCFA)</strong> pour un livre audio de votre choix tous les mois.</em></h4>
+<h4 class="bc-text bc-spacing-none bc-spacing-top-none bc-size-base bc-color-secondary"><em>Puis <strong>3€ (soit 2000 FCFA)</strong> pour un livre audio de votre choix tous les mois.</em></h4>
 </div>
 </div>
 </div>
