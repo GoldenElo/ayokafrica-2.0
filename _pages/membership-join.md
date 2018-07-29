@@ -1,6 +1,6 @@
 ---
 ID: 253
-post_title: Join Us
+post_title: ""
 author: Valery Lue
 post_excerpt: ""
 layout: page
@@ -9,19 +9,69 @@ permalink: >
 published: true
 post_date: 2018-07-23 15:51:49
 ---
-<p style="color: red; font-weight: bold;">This page and the content has been automatically generated for you to give you a basic idea of how a "Join Us" page should look like. You can customize this page however you like it by editing this page from your WordPress page editor.</p>
-<p style="font-weight: bold;">If you end up changing the URL of this page then make sure to update the URL value in the settings menu of the plugin.</p>
-<strong>Free Membership</strong>
+<h2 style="text-align: center;">Abonnez vous et profiter d'un livre audio tous les mois</h2>
+<h3><span style="font-size: 2.1rem;">Vos deux premiers livres </span><span style="font-size: 29.4px;">audio</span><span style="font-size: 2.1rem;"> gratuit</span></h3>
+<div id="" class="bc-row-responsive
 
-You get unlimited access to free membership content
+    bc-spacing-none">
+<div class="bc-col-responsive
 
-<em><strong>Price: Free!</strong></em>
+    bc-col-6 
 
-Link the following image to go to the Registration Page if you want your visitors to be able to create a free membership account
+    bc-col-offset-0">
+<div id="" class="bc-row-responsive">
+<div class="bc-col-responsive
+
+    bc-col-11">
+<p class="bc-text
+
+    bc-spacing-none 
+    bc-spacing-top-none 
+
+    bc-size-base 
+
+    bc-color-secondary">Puis <strong>1500 FCFA</strong> pour un livre audio de votre choix tous les mois.</p>
+&nbsp;
+
+</div>
+</div>
+<div id="" class="bc-row-responsive">
+<div class="bc-col-responsive
+
+    bc-col-11">
+<h3 class="bc-heading
+    bc-color-base
+
+    bc-size-medium">Profitez de nos réductions spéciales</h3>
+<p class="bc-heading
+    bc-color-base
+
+    bc-size-medium">Jusqu'à <strong>50%</strong> sur le prix des livres audio</p>
+&nbsp;
+<p class="bc-text
+
+    bc-spacing-none 
+    bc-spacing-top-none 
+
+    bc-size-base 
+
+    bc-color-secondary"><span style="color: #54617a; font-size: 2.1rem;">Sans engagement</span></p>
+<p class="bc-text
+
+    bc-spacing-none 
+    bc-spacing-top-none 
+
+    bc-size-base 
+
+    bc-color-secondary">Résiliez ou suspendez votre abonnement à tout moment.</p>
+
+</div>
+</div>
+</div>
+</div>
+&nbsp;
 
 <img title="Join Now" src="http://www.ayokafrica.com/wp-content/plugins/simple-membership/images/join-now-button-image.gif" alt="Join Now Button" width="277" height="82" />
 
-<strong>You can register for a Free Membership or pay for one of the following membership options</strong>
-
-[ ==&gt; Insert Payment Button For Your Paid Membership Levels Here &lt;== ]
+&nbsp;
 <p style="border-bottom: 1px solid #ccc; padding-bottom: 10px; margin-bottom: 10px;"></p>
