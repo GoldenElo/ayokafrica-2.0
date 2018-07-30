@@ -1,6 +1,6 @@
 ---
 ID: 153
-post_title: Cart
+post_title: ""
 author: goldenelo
 post_excerpt: ""
 layout: page
