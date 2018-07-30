@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-12 00:05:26
 ---
-<h2>En construction</h2>
+<h2>En construction!!!</h2>
 <h2>Qui sommes-nous ?</h2>
 L’adresse de notre site Web est : http://www.ayokafrica.com.
 <h2>Utilisation des données personnelles collectées</h2>
