@@ -9,16 +9,5 @@ published: true
 post_date: 2018-07-13 12:04:46
 ---
 [woocommerce_my_account]
-Ma Bliothèque
-Mes informations
-Mes notifications
-Ma Bliothèque
 
-ici la bibliothèque
-
-Mes informations
-
-Les informations du clients
-
-Mes notifications
-Contenu de l’onglet
+&lt;iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/567620514%3Fsecret_token%3Ds-Jn3BJ&amp;color=%23e8d69c&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"&gt;&lt;/iframe&gt;
