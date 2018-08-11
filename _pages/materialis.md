@@ -19,7 +19,7 @@ post_date: 2018-07-12 21:47:47
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Nom du livre&nbsp;</h4>
 <p  class="">
-L’education formelle vous fera un salaire, l’auto-education vous fera une fortune&nbsp;<br >&nbsp;– Jim rohn –</p>
+L’education formelle vous fera un salaire, l’auto-education vous fera une fortune.<br >&nbsp;– Jim rohn –</p>
 
 </div>
 </div>
@@ -42,8 +42,8 @@ L’education formelle vous fera un salaire, l’auto-education vous fera une fo
 <div  class="row">
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
-<h4  class="color-black">Citation livre 2</h4>
-<p  class="">Tout ce que nous sommes&nbsp; est le resultat de ce que nous avons pensé.<br >–&nbsp;Bouddha –</p>
+<h4  class="color-black">Livre trois</h4>
+<p  class="">Tout ce que nous sommes aujourd'hui est le resultat de ce que nous avons pensé.<br >–&nbsp;Jim Rohn –</p>
 
 </div>
 </div>
