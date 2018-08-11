@@ -17,8 +17,9 @@ post_date: 2018-07-12 21:47:47
 <div  class="row">
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
-<h4  class="color-black">Citation livre 2</h4>
-<p  class="">La plus grande décourverte de notre génération a été de s'apercevoir qu'un Homme pouvait changer sa vie en modifiant sa façon de penser<br >- Williams James -</p>
+<h4  class="color-black">Nom du livre&nbsp;</h4>
+<p  class="">
+L'education formelle vous fera un salaire, l'auto_education vous fera une fortune&nbsp;<br >&nbsp;- Jim rohn -</p>
 
 </div>
 </div>
@@ -30,7 +31,7 @@ post_date: 2018-07-12 21:47:47
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-audiobook reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Citation livre 3</h4>
-<p  class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p  class="">Si tu veux quelque chose que tu n'a jamais eu , il te faudra faire ce que tu n'a jamais fait.<br >- Brian Tracy -&nbsp;</p>
 
 </div>
 </div>
@@ -42,7 +43,8 @@ post_date: 2018-07-12 21:47:47
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Citation livre 2</h4>
-<p  class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p  class="">Tout ce que nous sommes aujourd'hui est le resultat de ce que nous avons pensé dans le passé.
+<br >-&nbsp;Bouddha -</p>
 
 </div>
 </div>
