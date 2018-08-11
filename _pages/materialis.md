@@ -373,12 +373,12 @@ Ayokafrica, laissez nous vous emméner toujours plus loin.</p>
 <div  class="col-sm-12 col-md-6">
 <div  class="row">
 <div  class="col-sm-6 col-md-6">
-<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-AF5-1024x576-1.jpg"></div>
+<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/08/cropped-IMG-20180804-WA0045.jpg"></div>
 </div>
 <div  class="col-sm-6 col-md-6">
 <div  data-type="column" class="description-container use-section-text-color">
-<h4  class="no-margin-bottom">Team Member</h4>
-<p  class="font-300">Developpeuse</p>
+<h4  class="no-margin-bottom">Wogui Valéry Lué</h4>
+<p  class="font-300">C.E.O / Community Manager</p>
 <p  class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
 <div  class="social-icons-group col-no-padding" data-type="group"><a  href="#"><i  class="mdi mdi-facebook social-icon"></i></a> <a  href="#"><i  class="mdi mdi-twitter social-icon"></i></a> <a  href="#"><i  class="mdi mdi-instagram social-icon"></i></a> <a  href="#"><i  class="mdi mdi-rss social-icon"></i></a></div>
@@ -389,12 +389,12 @@ Ayokafrica, laissez nous vous emméner toujours plus loin.</p>
 <div  class="col-sm-12 col-md-6">
 <div  class="row">
 <div  class="col-sm-6 col-md-6">
-<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-SIC3A5LZ-large-1.jpg"></div>
+<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/08/cropped-WhatsApp-Image-2018-08-11-at-22.43.05-2.jpeg"></div>
 </div>
 <div  class="col-sm-6 col-md-6">
 <div  data-type="column" class="description-container use-section-text-color">
-<h4  class="no-margin-bottom">Team Member</h4>
-<p  class="font-300">Chargé de communication</p>
+<h4  class="no-margin-bottom">Gbadié Lué</h4>
+<p  class="font-300">Responsable technique</p>
 <p  class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
 <div  class="social-icons-group col-no-padding" data-type="group"><a  href="#"><i  class="mdi mdi-facebook social-icon"></i></a> <a  href="#"><i  class="mdi mdi-twitter social-icon"></i></a> <a  href="#"><i  class="mdi mdi-instagram social-icon"></i></a> <a  href="#"><i  class="mdi mdi-rss social-icon"></i></a></div>
@@ -405,12 +405,12 @@ Ayokafrica, laissez nous vous emméner toujours plus loin.</p>
 <div  class="col-sm-12 col-md-6">
 <div  class="row">
 <div  class="col-sm-6 col-md-6">
-<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-Cheveux-afros-le-retour-du-naturel-1.jpg"></div>
+<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/08/cropped-IMG-20180804-WA0021-1.jpg"></div>
 </div>
 <div  class="col-sm-6 col-md-6">
 <div  data-type="column" class="description-container use-section-text-color">
-<h4  class="no-margin-bottom">Team Member</h4>
-<p  class="font-300">Developpeuse</p>
+<h4  class="no-margin-bottom">Franck Gballou</h4>
+<p  class="font-300">C.E.O / Community Manager</p>
 <p  class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
 <div  class="social-icons-group col-no-padding" data-type="group"><a  href="#"><i  class="mdi mdi-facebook social-icon"></i></a> <a  href="#"><i  class="mdi mdi-twitter social-icon"></i></a> <a  href="#"><i  class="mdi mdi-instagram social-icon"></i></a> <a  href="#"><i  class="mdi mdi-rss social-icon"></i></a></div>
@@ -421,11 +421,11 @@ Ayokafrica, laissez nous vous emméner toujours plus loin.</p>
 <div  class="col-sm-12 col-md-6">
 <div  class="row">
 <div  class="col-sm-6 col-md-6">
-<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-c6e212ee64adb56039ef451027b5b2bd-1.jpg"></div>
+<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/08/cropped-IMG-20180804-WA0058-2.jpg"></div>
 </div>
 <div  class="col-sm-6 col-md-6">
 <div  data-type="column" class="description-container use-section-text-color">
-<h4  class="no-margin-bottom">Team Member</h4>
+<h4  class="no-margin-bottom">Mariam</h4>
 <p  class="font-300">Chargé de communication</p>
 <p  class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
