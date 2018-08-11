@@ -18,7 +18,7 @@ post_date: 2018-07-12 21:47:47
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Citation livre 2</h4>
-<p  class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p  class="">La plus grande décourverte de notre génération a été de s'apercevoir qu'un Homme pouvait changer sa vie en modifiant sa façon de penser<br >- Williams James -</p>
 
 </div>
 </div>
@@ -425,7 +425,7 @@ Ayokafrica, laissez nous vous emméner toujours plus loin.</p>
 </div>
 <div  class="col-sm-6 col-md-6">
 <div  data-type="column" class="description-container use-section-text-color">
-<h4  class="no-margin-bottom">Mariam</h4>
+<h4  class="no-margin-bottom">Mariam Coulibaly</h4>
 <p  class="font-300">Chargé de communication</p>
 <p  class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
