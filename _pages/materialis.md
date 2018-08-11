@@ -19,7 +19,7 @@ post_date: 2018-07-12 21:47:47
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Nom du livre&nbsp;</h4>
 <p  class="">
-L'education formelle vous fera un salaire, l'auto_education vous fera une fortune&nbsp;<br >&nbsp;- Jim rohn -</p>
+L’education formelle vous fera un salaire, l’auto-education vous fera une fortune&nbsp;<br >&nbsp;– Jim rohn –</p>
 
 </div>
 </div>
@@ -31,7 +31,7 @@ L'education formelle vous fera un salaire, l'auto_education vous fera une fortun
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-audiobook reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Citation livre 3</h4>
-<p  class="">Si tu veux quelque chose que tu n'a jamais eu , il te faudra faire ce que tu n'a jamais fait.<br >- Brian Tracy -&nbsp;</p>
+<p  class="">Si tu veux quelque chose que tu n’a jamais eu , il te faudra faire ce que tu n’a jamais fait.<br >– Brian Tracy –&nbsp;</p>
 
 </div>
 </div>
@@ -43,8 +43,7 @@ L'education formelle vous fera un salaire, l'auto_education vous fera une fortun
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Citation livre 2</h4>
-<p  class="">Tout ce que nous sommes aujourd'hui est le resultat de ce que nous avons pensé dans le passé.
-<br >-&nbsp;Bouddha -</p>
+<p  class="">Tout ce que nous sommes&nbsp; est le resultat de ce que nous avons pensé.<br >–&nbsp;Bouddha –</p>
 
 </div>
 </div>
