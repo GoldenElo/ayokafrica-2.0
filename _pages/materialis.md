@@ -407,7 +407,7 @@ Ayokafrica, laissez nous vous emméner toujours plus loin.</p>
 <div  class="col-sm-12 col-md-6">
 <div  class="row">
 <div  class="col-sm-6 col-md-6">
-<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/08/cropped-IMG-20180804-WA0021-1.jpg"></div>
+<div  class="card mdc-elevation--z3 no-radius image-holder"><img  class="face no-margin-bottom" src="http://www.ayokafrica.com/wp-content/uploads/2018/08/cropped-IMG-20180804-WA0021.jpg"></div>
 </div>
 <div  class="col-sm-6 col-md-6">
 <div  data-type="column" class="description-container use-section-text-color">
@@ -427,7 +427,7 @@ Ayokafrica, laissez nous vous emméner toujours plus loin.</p>
 </div>
 <div  class="col-sm-6 col-md-6">
 <div  data-type="column" class="description-container use-section-text-color">
-<h4  class="no-margin-bottom">Mariam Coulibaly</h4>
+<h4  class="no-margin-bottom">Maria Coulibaly</h4>
 <p  class="font-300">Chargé de communication</p>
 <p  class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
