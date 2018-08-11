@@ -43,7 +43,7 @@ L’education formelle vous fera un salaire, l’auto-education vous fera une fo
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Livre trois</h4>
-<p  class="">Tout ce que nous sommes aujourd'hui est le resultat de ce que nous avons pensé.<br >–&nbsp;Jim Rohn –</p>
+<p  class="">Tout ce que nous sommes aujourd'hui est le resultat de ce que nous avons pensé.<br >–&nbsp;Bouddha –</p>
 
 </div>
 </div>
