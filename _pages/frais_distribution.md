@@ -5,7 +5,7 @@ author: goldenelo
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ayokafrica.com/frais_stockage_maintenance/
+  http://www.ayokafrica.com/frais_distribution/
 published: true
 post_date: 2018-07-13 21:06:04
 ---
