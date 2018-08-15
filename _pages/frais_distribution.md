@@ -11,7 +11,7 @@ post_date: 2018-07-13 21:06:04
 ---
 <h2 style="text-align: center;">Frais de distribution</h2>
 <h5 style="text-align: center;"><em>Afin de financer ses frais de stockage, de maintenance et de distribution, Ayokafrica vous prélève un pourcentage sur chaque vente suivant une grille tarifaire décroissante et transparente.</em></h5>
-<h5 style="text-align: center;"><em>Plus vous vendez de contenus audios, moins nous vous prélevons</em></h5>
+<h5 style="text-align: center;"><em>Plus vous vendez de contenus audios, moins nous vous prélevons!</em></h5>
 <p style="text-align: center;">[rpt name="frais-de-distribution"]</p>
 
 <h2></h2>
