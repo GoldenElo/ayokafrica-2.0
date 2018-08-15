@@ -99,20 +99,6 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 </div>
 </div>
 </div>
-</div><div  data-label="Content" data-id="content--1" data-export-id="content-7-materialis" data-category="content" class="content-7m content-section-spacing-large content-section" id="content-1" style="background-color: #ffffff;">
-<div  class="gridContainer">
-<div  class="row middle-sm">
-<div  class="col-md-6 col-xs-12 col-sm-6 col-padding-small-xs"><img  class="mdc-elevation--z13 img-rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-70A4F8AADBC74D89844DFAEDF208120F-1.jpg"></div>
-<div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
-<h6  class="upper">NOS OFFRES</h6>
-<h3  class="space-bottom">Pour les écrivains, les podcaster, les maisons d’édition</h3>
-<p  class="space-top">La publication d’un Podcast ou d’un livre audio est gratuite. Ayokafrica, s’occupe de promouvoire votre publication auprès de ses abonné(e)s. Nous vous proposons également une équipe pour l’enregistrement de vos contenus audios et un accompagnement personnalisé. 
-<br >Ayokafrica prélève un pourcentage pour chaque vente réalisée.</p>
-<a  href="http://www.ayokafrica.com/www.ayokafrica.com/frais_distribution" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 138.315px; --mdc-ripple-fg-scale: 1.76387;">En savoir plus sur nos offres<i  class="mdi mdi-arrow-right-thick"></i></a>
-
-</div>
-</div>
-</div>
 </div><div  data-label="Portfolio" data-id="portfolio--1" data-export-id="portfolio-1-materialis" data-category="portfolio" class="portfolio-1-materialis content-section" id="portfolio-1" style="background-color: #ffffff;">
 <div >
 <div  class="row text-center" data-type="row" data-fixed="true">
@@ -253,6 +239,34 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 </div>
 </div>
 </div>
+</div><div  data-label="Content" data-id="content--1" data-export-id="content-7-materialis" data-category="content" class="content-7m content-section-spacing-large content-section" id="content-1" style="background-color: #ffffff;">
+<div  class="gridContainer">
+<div  class="row middle-sm">
+<div  class="col-md-6 col-xs-12 col-sm-6 col-padding-small-xs"><img  class="mdc-elevation--z13 img-rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-70A4F8AADBC74D89844DFAEDF208120F-1.jpg"></div>
+<div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
+<h6  class="upper">NOS OFFRES</h6>
+<h3  class="space-bottom">Pour les écrivains, les podcaster, les maisons d’édition</h3>
+<p  class="space-top">La publication d’un Podcast ou d’un livre audio est gratuite. Ayokafrica, s’occupe de promouvoire votre publication auprès de ses abonné(e)s. Nous vous proposons également une équipe pour l’enregistrement de vos contenus audios et un accompagnement personnalisé. 
+<br >Ayokafrica prélève un pourcentage pour chaque vente réalisée.</p>
+<a  href="http://www.ayokafrica.com/www.ayokafrica.com/frais_distribution" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 138.315px; --mdc-ripple-fg-scale: 1.76387;">En savoir plus sur nos offres<i  class="mdi mdi-arrow-right-thick"></i></a>
+
+</div>
+</div>
+</div>
+</div><div  data-label="Cta" data-id="cta--1" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" id="cta-1" data-parallax-depth="20" data-ovid="1" style="background-color: #ffffff; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
+<div  class="">
+<div  class="row text-center col-sm-padding-medium">
+<div  class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 card mdc-elevation--z3 box-padding-lr-small">
+<div  data-type="column" class="">
+<h2  class="">Crowdfunding</h2>
+<p  class="">Ayokafrica, ambitionne de produire et promouvoire du contenu audio en langues africaines. Pour cela nous avons besoin de vous!<br >Notre campagne de crowdfunding est en cours de préparation.
+<br >En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux sociaux.</p>
+<a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donations/don_ayoka" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 103.657px; --mdc-ripple-fg-scale: 1.84151;">Faire un don</a>
+
+</div>
+</div>
+</div>
+</div>
 </div><div  data-label="Content" data-id="content--2" data-export-id="content-8-materialis" data-category="content" class="content-8m content-section-spacing-large content-section" id="content-2" style="background-color: #f5fafd;">
 <div  class="gridContainer">
 <div  class="row middle-sm">
@@ -264,86 +278,6 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 
 </div>
 <div  class="col-md-6 col-md-offset-1 col-xs-12 col-sm-6"><img  class="mdc-elevation--z9 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-digital-marketing-1433427_1920-1.jpg"></div>
-</div>
-</div>
-</div><div  data-label="Cta" data-id="cta--1" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" id="cta-1" data-parallax-depth="20" data-ovid="1" style="background-color: #ffffff; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
-<div  class="">
-<div  class="row text-center col-sm-padding-medium">
-<div  class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 card mdc-elevation--z3 box-padding-lr-small">
-<div  data-type="column" class="">
-<h2  class="">Crowdfunding</h2>
-<p  class="">Ayokafrica, ambitionne de produire et promouvoire du contenu audio en langues africaines. Pour cela nous avons besoin de vous!<br >Notre campagne de crowdfunding est en cours de préparation.
-<br >En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux sociaux.</p>
-<a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="www.ayokafrica.com/donations/don_ayoka" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 103.657px; --mdc-ripple-fg-scale: 1.84151;">Faire un don</a>
-
-</div>
-</div>
-</div>
-</div>
-</div><div  data-label="Testimonials" data-id="testimonials--1" data-export-id="testimonials-1-materialis" data-category="testimonials" class="testimonials-1m content-section content-section-spacing" id="testimonials-1" style="background-color: #f5fafd;">
-<div  class="gridContainer">
-<div  class="row space-bottom-small">
-<div  data-type="column" class="section-title-col">
-<h2  class="">Témoignages</h2>
-<p  class="lead">Nos abonnés et nos partenaires témoignent</p>
-
-</div>
-</div>
-<div  class="row spaced-cols content-left-sm" data-type="row">
-<div  class="col-xs-12 col-sm-4 col-md-4">
-<div  class="card mdc-elevation--z3 small-padding no-border">
-<div  class="row space-bottom-small">
-<div  class="testimonial-body col-xs-12" data-type="column">
-<p  class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud..</p>
-
-</div>
-</div>
-<div  class="row middle-xs f-align">
-<div  class="col-xs-fit col-sm-12 col-md-fit space-bottom-image"><img  data-fixed-elevation="true" class="round image-70 mdc-elevation--z3" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-cropped-AyokaAfrika-cover-100x100.jpg"></div>
-<div  class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
-<h6  class="font-700">Aîssata Diomandé</h6>
-<p  class="small font-300">C.E.O Global Consulting</p>
-
-</div>
-</div>
-</div>
-</div>
-<div  class="col-xs-12 col-sm-4 col-md-4">
-<div  class="card mdc-elevation--z3 small-padding no-border">
-<div  class="row space-bottom-small">
-<div  class="testimonial-body col-xs-12" data-type="column">
-<p  class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-
-</div>
-</div>
-<div  class="row middle-xs f-align">
-<div  class="col-xs-fit col-sm-12 col-md-fit space-bottom-image"><img  data-fixed-elevation="true" class="round image-70 mdc-elevation--z3" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-WhatsApp-Image-2018-07-20-at-14.40.37.jpeg"></div>
-<div  class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
-<h6  class="font-700">Kakou Djikahoué</h6>
-<p  class="small font-300">Agriculteur</p>
-
-</div>
-</div>
-</div>
-</div>
-<div  class="col-xs-12 col-sm-4 col-md-4">
-<div  class="card mdc-elevation--z3 small-padding no-border">
-<div  class="row space-bottom-small">
-<div  class="testimonial-body col-xs-12" data-type="column">
-<p  class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-
-</div>
-</div>
-<div  class="row middle-xs f-align">
-<div  class="col-xs-fit col-sm-12 col-md-fit space-bottom-image"><img  data-fixed-elevation="true" class="round image-70 mdc-elevation--z3" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-uti-nwachukwu-Nigeria-top-africains-les-plus-beaux-kabibi-magazine.jpg"></div>
-<div  class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
-<h6  class="font-700">Kouakou Koffi</h6>
-<p  class="small font-300">Entrepreuneur</p>
-
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div><div  data-label="Contact" data-id="contact--1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing-large content-relative white-text" data-parallax-depth="20" id="contact-1" style="background-color: #f5fafd;">
