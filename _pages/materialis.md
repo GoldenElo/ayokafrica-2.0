@@ -19,7 +19,8 @@ post_date: 2018-07-12 21:47:47
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Pour la révolution africaine</h4>
 <p  class="">
-Si tu ne veux pas l'homme qui est en face de toi, comment croirais-je à l'homme qui peut-être en toi?<br >&nbsp;– Frantz Fanon –</p>
+Si tu ne veux pas l'homme qui est en face de toi, comment croirais-je à l'homme qui peut-être en toi?<br >&nbsp;
+<br >– Frantz Fanon –</p>
 
 </div>
 </div>
