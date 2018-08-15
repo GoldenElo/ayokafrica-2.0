@@ -19,7 +19,7 @@ post_date: 2018-07-12 21:47:47
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Pour la révolution africaine</h4>
 <p  class="">
-Si tu ne veux pas l'homme qui est en face de toi, comment croirais-je à l'homme qui peut-être en toi?<br >&nbsp;
+Si tu ne veux pas l’homme qui est en face de toi, comment croirais-je à l’homme qui peut-être en toi?<br >&nbsp;
 <br >– Frantz Fanon –</p>
 
 </div>
@@ -32,7 +32,7 @@ Si tu ne veux pas l'homme qui est en face de toi, comment croirais-je à l'homme
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-audiobook reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Nations nègres et culture</h4>
-<p  class="">La facilité avec laquelle nous renonçons, souvent, à notre culture ne s'explique que par notre ignorance de celle-ci.<br >- Cheick Anta Diop -</p>
+<p  class="">La facilité avec laquelle nous renonçons, souvent, à notre culture ne s’explique que par notre ignorance de celle-ci.<br >– Cheick Anta Diop –</p>
 
 </div>
 </div>
@@ -44,8 +44,8 @@ Si tu ne veux pas l'homme qui est en face de toi, comment croirais-je à l'homme
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Americanah</h4>
-<p  class="">Le racisme n'aurait jamais dû naître, par conséquent n'espérez pas recevoir une médaille pour l'avoir réduit !<br >
-<br >-&nbsp;Chimamanda Ngozi Adichie -</p>
+<p  class="">Le racisme n’aurait jamais dû naître, par conséquent n’espérez pas recevoir une médaille pour l’avoir réduit !<br >
+<br >–&nbsp;Chimamanda Ngozi Adichie –</p>
 
 </div>
 </div>
@@ -107,7 +107,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <h6  class="upper">NOS OFFRES</h6>
 <h3  class="space-bottom">Pour les écrivains, les podcaster, les maisons d’édition</h3>
 <p  class="space-top">La publication d’un Podcast ou d’un livre audio est gratuite. Ayokafrica, s’occupe de promouvoire votre publication auprès de ses abonné(e)s. Nous vous proposons également une équipe pour l’enregistrement de vos contenus audios et un accompagnement personnalisé. Ayokafrica prélève un pourcentage pour chaque vente réalisée à travers la plateforme pour financer ses frais de fonctionnement.</p>
-<a  href="www.ayokafrica.com/frais_stockage_maintenance" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 138.315px; --mdc-ripple-fg-scale: 1.76387;">En savoir plus sur nos offres<i  class="mdi mdi-arrow-right-thick"></i></a>
+<a  href="www.ayokafrica.com/frais_distribution" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 138.315px; --mdc-ripple-fg-scale: 1.76387;">En savoir plus sur nos offres<i  class="mdi mdi-arrow-right-thick"></i></a>
 
 </div>
 </div>
