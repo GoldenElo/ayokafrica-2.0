@@ -17,9 +17,9 @@ post_date: 2018-07-12 21:47:47
 <div  class="row">
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
-<h4  class="color-black">Nom du livre&nbsp;</h4>
+<h4  class="color-black">Pour la révolution africaine</h4>
 <p  class="">
-L’education formelle vous fera un salaire, l’auto-education vous fera une fortune.<br >&nbsp;– Jim rohn –</p>
+Si tu ne veux pas l'homme qui est en face de toi, comment croirais-je à l'homme qui peut-être en toi?<br >&nbsp;– Frantz Fanon –</p>
 
 </div>
 </div>
@@ -30,8 +30,8 @@ L’education formelle vous fera un salaire, l’auto-education vous fera une fo
 <div  class="row">
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-audiobook reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
-<h4  class="color-black">Citation livre 3</h4>
-<p  class="">Si tu veux quelque chose que tu n’a jamais eu , il te faudra faire ce que tu n’a jamais fait.<br >– Brian Tracy –&nbsp;</p>
+<h4  class="color-black">Nations nègres et culture</h4>
+<p  class="">La facilité avec laquelle nous renonçons, souvent, à notre culture ne s'explique que par notre ignorance de celle-ci.<br >- Cheick Anta Diop -</p>
 
 </div>
 </div>
@@ -42,8 +42,8 @@ L’education formelle vous fera un salaire, l’auto-education vous fera une fo
 <div  class="row">
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
-<h4  class="color-black">Livre trois</h4>
-<p  class="">Tout ce que nous sommes aujourd’hui est le resultat de ce que nous avons pensé.<br >–&nbsp;Bouddha –</p>
+<h4  class="color-black">Americanah</h4>
+<p  class="">Le racisme n'aurait jamais dû naître, par conséquent n'espérez pas recevoir une médaille pour l'avoir réduit !<br >-&nbsp;Chimamanda Ngozi Adichie -</p>
 
 </div>
 </div>
