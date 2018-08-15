@@ -106,7 +106,8 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
 <h6  class="upper">NOS OFFRES</h6>
 <h3  class="space-bottom">Pour les écrivains, les podcaster, les maisons d’édition</h3>
-<p  class="space-top">La publication d’un Podcast ou d’un livre audio est gratuite. Ayokafrica, s’occupe de promouvoire votre publication auprès de ses abonné(e)s. Nous vous proposons également une équipe pour l’enregistrement de vos contenus audios et un accompagnement personnalisé. Ayokafrica prélève un pourcentage pour chaque vente réalisée à travers la plateforme pour financer ses frais de fonctionnement.</p>
+<p  class="space-top">La publication d’un Podcast ou d’un livre audio est gratuite. Ayokafrica, s’occupe de promouvoire votre publication auprès de ses abonné(e)s. Nous vous proposons également une équipe pour l’enregistrement de vos contenus audios et un accompagnement personnalisé. 
+<br >Ayokafrica prélève un pourcentage pour chaque vente réalisée.</p>
 <a  href="www.ayokafrica.com/frais_distribution" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 138.315px; --mdc-ripple-fg-scale: 1.76387;">En savoir plus sur nos offres<i  class="mdi mdi-arrow-right-thick"></i></a>
 
 </div>
