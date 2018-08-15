@@ -259,8 +259,8 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="col-md-5 col-xs-12 col-sm-6 space-bottom-xs" data-type="column">
 <h6  class="upper">NOS ESPACES PUBLICITAIRES</h6>
 <h3  class="">Boostez vos ventes</h3>
-<p  class="space-top">AyokAfrica propose des packs publicitaires sur la plateforme et sur les réseaux sociaux .pour booster les ventes de vos contenus audios.</p>
-<a  href="#" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 190.868px; --mdc-ripple-fg-scale: 1.73218;">En savoir plus sur nos packs publicitaires<i  class="mdi mdi-arrow-right-thick"></i></a>
+<p  class="space-top">Ayokafrica propose plusieurs packs publicitaires adaptés à vos objectifs de ventes.</p>
+<a  href="www.ayokafrica.com/nos-offres" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 190.868px; --mdc-ripple-fg-scale: 1.73218; position: relative; top: 0px; --mdc-ripple-fg-translate-start: -98.3963px, -94.4338px; --mdc-ripple-fg-translate-end: 63.6225px, -75.4338px; left: 0px;">En savoir plus<i  class="mdi mdi-arrow-right-thick"></i></a>
 
 </div>
 <div  class="col-md-6 col-md-offset-1 col-xs-12 col-sm-6"><img  class="mdc-elevation--z9 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-digital-marketing-1433427_1920-1.jpg"></div>
@@ -272,9 +272,9 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 card mdc-elevation--z3 box-padding-lr-small">
 <div  data-type="column" class="">
 <h2  class="">Crowdfunding</h2>
-<p  class="">Ayokafrica a besoin de votre générosité pour emméner le talent litteraire africain toujours plus loin. Nous ambitionons de produire et promouvoire des contenus audios en langues Ivoiriennes et Africaines.
-Business Angeles, à vous de jouer, participez à notre campagne de Crowdfundind!</p>
-<a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donate" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 152.573px; --mdc-ripple-fg-scale: 1.76883;">Participez maintenant !</a>
+<p  class="">Ayokafrica, ambitionne de produire et promouvoire du contenu audio en langues africaines. Pour cela nous avons besoin de vous!<br >Notre campagne de crowdfunding est en cours de préparation.
+<br >En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux sociaux.</p>
+<a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donate" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 152.573px; --mdc-ripple-fg-scale: 1.76883;">Faire un don</a>
 
 </div>
 </div>
