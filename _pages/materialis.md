@@ -108,7 +108,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <h3  class="space-bottom">Pour les écrivains, les podcaster, les maisons d’édition</h3>
 <p  class="space-top">La publication d’un Podcast ou d’un livre audio est gratuite. Ayokafrica, s’occupe de promouvoire votre publication auprès de ses abonné(e)s. Nous vous proposons également une équipe pour l’enregistrement de vos contenus audios et un accompagnement personnalisé. 
 <br >Ayokafrica prélève un pourcentage pour chaque vente réalisée.</p>
-<a  href="www.ayokafrica.com/frais_distribution" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 138.315px; --mdc-ripple-fg-scale: 1.76387;">En savoir plus sur nos offres<i  class="mdi mdi-arrow-right-thick"></i></a>
+<a  href="http://www.ayokafrica.com/www.ayokafrica.com/frais_distribution" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 138.315px; --mdc-ripple-fg-scale: 1.76387;">En savoir plus sur nos offres<i  class="mdi mdi-arrow-right-thick"></i></a>
 
 </div>
 </div>
@@ -260,7 +260,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <h6  class="upper">NOS ESPACES PUBLICITAIRES</h6>
 <h3  class="">Boostez vos ventes</h3>
 <p  class="space-top">Ayokafrica propose plusieurs packs publicitaires adaptés à vos objectifs de ventes.</p>
-<a  href="www.ayokafrica.com/nos-offres" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 190.868px; --mdc-ripple-fg-scale: 1.73218; position: relative; top: 0px; --mdc-ripple-fg-translate-start: -98.3963px, -94.4338px; --mdc-ripple-fg-translate-end: 63.6225px, -75.4338px; left: 0px;">En savoir plus<i  class="mdi mdi-arrow-right-thick"></i></a>
+<a  href="http://www.ayokafrica.com/www.ayokafrica.com/nos-offres" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 78.8025px; --mdc-ripple-fg-scale: 1.86915; position: relative; top: 0px; --mdc-ripple-fg-translate-start: -98.3963px, -94.4338px; --mdc-ripple-fg-translate-end: 63.6225px, -75.4338px; left: 0px;">En savoir plus<i  class="mdi mdi-arrow-right-thick"></i></a>
 
 </div>
 <div  class="col-md-6 col-md-offset-1 col-xs-12 col-sm-6"><img  class="mdc-elevation--z9 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-digital-marketing-1433427_1920-1.jpg"></div>
@@ -274,7 +274,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <h2  class="">Crowdfunding</h2>
 <p  class="">Ayokafrica, ambitionne de produire et promouvoire du contenu audio en langues africaines. Pour cela nous avons besoin de vous!<br >Notre campagne de crowdfunding est en cours de préparation.
 <br >En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux sociaux.</p>
-<a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donate" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 152.573px; --mdc-ripple-fg-scale: 1.76883;">Faire un don</a>
+<a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="www.ayokafrica.com/donations/don_ayoka" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 103.657px; --mdc-ripple-fg-scale: 1.84151;">Faire un don</a>
 
 </div>
 </div>
