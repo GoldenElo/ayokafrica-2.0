@@ -43,7 +43,8 @@ Si tu ne veux pas l'homme qui est en face de toi, comment croirais-je à l'homme
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Americanah</h4>
-<p  class="">Le racisme n'aurait jamais dû naître, par conséquent n'espérez pas recevoir une médaille pour l'avoir réduit !<br >-&nbsp;Chimamanda Ngozi Adichie -</p>
+<p  class="">Le racisme n'aurait jamais dû naître, par conséquent n'espérez pas recevoir une médaille pour l'avoir réduit !<br >
+<br >-&nbsp;Chimamanda Ngozi Adichie -</p>
 
 </div>
 </div>
