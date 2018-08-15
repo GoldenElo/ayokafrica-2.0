@@ -12,3 +12,5 @@ post_date: 2018-07-13 10:04:57
 <h5 style="text-align: center;"><em>Professionnels du monde du livre, maisons d'éditions, écrivains, Ayokafrika propose des packs publicitaires adaptés à votre porte monnaie. </em></h5>
 &nbsp;
 <p style="text-align: center;">[rpt name="espace-publicitaire"]</p>
+
+<h4>Pour avoir des informations sur les frais de distribution : <a href="http://www.ayokafrica.com/frais_distribution/">Cliquez ici</a></h4>
