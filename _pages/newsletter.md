@@ -8,5 +8,5 @@ permalink: http://www.ayokafrica.com/newsletter/
 published: true
 post_date: 2018-08-15 21:26:46
 ---
-<h2 style="text-align: center;">Inscrivez-vous à notre newsletter pour suivre toues l'actualité d'Ayokafrica.</h2>
+<h2 style="text-align: center;">Inscrivez-vous à notre newsletter pour suivre toutes l'actualité d'Ayokafrica.</h2>
 [newsletter]
