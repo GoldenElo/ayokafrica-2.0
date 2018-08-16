@@ -15,9 +15,7 @@ En effet, la dernière dédicace de l'auteur fut pour nous l'occasion de lui pr�
 
 Qui n'a pas pu les fameux recueilles de nouvelles "ah les hommes" et "ah les femmes" qui font partie aujourd'hui des classiques ivoiriens?
 
-Sa dernière oeuvre dont nous avons assisté à la dédicace , a pour titre XXXXX. il s'agit de l'histoire de XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
-
-Je vous invites à la découvrir si ce n'est déjà fait!
+Je vous invites à les découvrir si ce n'est déjà fait!
 
 Ce fut un moment chaleureux, l'occasion d'obtenir la bénédiction d'un père et d'un homme de grand talent.
 
