@@ -281,7 +281,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="col-md-6 col-md-offset-1 col-xs-12 col-sm-6"><img  class="mdc-elevation--z9 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-digital-marketing-1433427_1920-1.jpg"></div>
 </div>
 </div>
-</div><div  data-label="Contact" data-id="contact--1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing-large content-relative white-text" data-parallax-depth="20" id="contact-1" style="background-color: #f5fafd;">
+</div><div  data-label="Contact" data-id="contact--1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing-large content-relative white-text" data-parallax-depth="20" id="contact-1" style="background-color: rgb(245, 250, 253); background-image: url(&quot;http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg&quot;); background-size: cover; background-position: center top;">
 <div  class="gridContainer">
 <div  class="row text-center">
 <div  class="section-title-col" data-type="column">
