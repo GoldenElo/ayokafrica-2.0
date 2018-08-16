@@ -1,6 +1,6 @@
 ---
 ID: 619
-post_title: Newsletter
+post_title: ""
 author: goldenelo
 post_excerpt: ""
 layout: page
