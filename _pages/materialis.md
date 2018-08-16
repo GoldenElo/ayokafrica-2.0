@@ -246,9 +246,8 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
 <h6  class="upper">Pour nos partenaires</h6>
 <h3  class="space-bottom">Auteurs, Podcasters, Editeurs</h3><p  class="space-top">Publier vos contenus audios sur Ayokafrica est simple et gratuit.&nbsp;
-<br >1. Envoyer nous un e-mail à l'adresse : publication@ayokafrica.com<br >2. Nous vons re-contactons dans un délais d'une semaine&nbsp;afin de vous proposer un contrat et/ou un entretien
-<br >3. Dès que nous arrivons à un accord signé, nous publions votre contenu.
-<br >5. Vous recevez un mail de bienvenue car vous faites désormais partie de la communauté Ayokafrica.</p>
+<br >1. Envoyer nous un e-mail à l’adresse : publication@ayokafrica.com pour nous décrire le contenu de votre oeuvre ainsi que son format actuel (audio, physique ou e-book)<br >2. Nous vous re-contactons dans un délais d’une semaine&nbsp;afin de vous proposer un entretien (téléphonique ou visuel)<br >3. Dès que nous arrivons à un accord signé, nous publions votre contenu.
+<br >5. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p>
 
 
 
