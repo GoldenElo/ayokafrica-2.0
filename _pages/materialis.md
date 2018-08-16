@@ -245,10 +245,12 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="col-md-6 col-xs-12 col-sm-6 col-padding-small-xs"><img  class="mdc-elevation--z13 img-rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-70A4F8AADBC74D89844DFAEDF208120F-1.jpg"></div>
 <div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
 <h6  class="upper">Pour nos partenaires</h6>
-<h3  class="space-bottom">Auteurs, Podcasters, Editeurs,</h3>
-<p  class="space-top">La publication d’un Podcast ou d’un livre audio est gratuite. Ayokafrica, s’occupe de promouvoire votre publication auprès de ses abonné(e)s. Nous vous proposons également une équipe pour l’enregistrement de vos contenus audios et un accompagnement personnalisé. 
-<br >Ayokafrica prélève un pourcentage pour chaque vente réalisée.</p>
-<a  href="http://www.ayokafrica.com/www.ayokafrica.com/frais_distribution" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 138.315px; --mdc-ripple-fg-scale: 1.76387;">En savoir plus sur nos offres<i  class="mdi mdi-arrow-right-thick"></i></a>
+<h3  class="space-bottom">Auteurs, Podcasters, Editeurs</h3><p  class="space-top">Publier vos contenus audios sur Ayokafrica est simple et gratuit.&nbsp;
+<br >1. Envoyer nous un e-mail à l'adresse : publication@ayokafrica.com<br >2. Nous vons re-contactons dans un délais d'une semaine&nbsp;afin de vous proposer un contrat et/ou un entretien
+<br >3. Dès que nous arrivons à un accord signé, nous publions votre contenu.
+<br >5. Vous recevez un mail de bienvenue car vous faites désormais partie de la communauté Ayokafrica.</p>
+
+
 
 </div>
 </div>
