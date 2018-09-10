@@ -34,7 +34,8 @@ post_date: 2018-07-12 21:47:47
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Nations nègres et culture</h4>
 <p  class="">La facilité avec laquelle nous renonçons, souvent, à notre culture ne s’explique que par notre ignorance de celle-ci.
-– Cheick Anta Diop –</p>
+
+<br >– Cheick Anta Diop –</p>
 
 </div>
 </div>
