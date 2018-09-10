@@ -21,7 +21,7 @@ post_date: 2018-07-12 21:47:47
 
 
 
-<br ><br >– Frantz Fanon –</p>
+<br >– Frantz Fanon –</p>
 
 </div>
 </div>
