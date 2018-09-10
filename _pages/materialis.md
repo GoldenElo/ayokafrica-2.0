@@ -46,9 +46,9 @@ post_date: 2018-07-12 21:47:47
 <div  class="row">
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
-<h4  class="color-black">Americanah</h4>
-<p  class="">Nous devons préférer un pas ensemble avec le peuple plutôt que de faire dix pas sans le peuple
-<br ><br >- Thomas Sankara -</p>
+<h4  class="color-black">Petit Bodiel </h4>
+<p  class="">Courage Petit Bodiel ! Il faut oser, car l'audace est souvent un gage de succès sur cette terre où la filouterie est chose courante. 
+<br ><br >-Amadou Hampâté Bâ - </p>
 
 </div>
 </div>
