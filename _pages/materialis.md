@@ -49,7 +49,7 @@ post_date: 2018-07-12 21:47:47
 <h4  class="color-black">Petit Bodiel </h4>
 <p  class="">Courage Petit Bodiel ! Il faut oser, car l'audace est souvent un gage de succès sur cette terre où la filouterie est chose courante. 
 <br >
-<br ><br >-Amadou Hampâté Bâ - </p>
+<br >-Amadou Hampâté Bâ - </p>
 
 </div>
 </div>
