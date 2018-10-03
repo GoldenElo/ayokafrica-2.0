@@ -1,8 +1,6 @@
 ---
 ID: 721
-post_title: >
-  Rencontre surprenante au détour du
-  canal
+post_title: ""
 author: goldenelo
 post_excerpt: ""
 layout: post
@@ -11,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-10-04 01:19:47
 ---
+<h2 style="text-align: center;">Rencontre surprenante au détour du canal</h2>
 Ce mercredi 03 Octobre, nous avons fait la rencontre de Souleymane Mboj, conteur africain aux multiples facettes.
 Il se définit lui même comme un libre penseur. On apprend en discutant avec lui qu'il a été très tôt initié à l'art du conte africain, ce qui a éveillé en lui l'amour de la musique. Ce professeur de philosophie, guitariste<strong> et</strong> percussionniste, est un artiste complet qui a l'art et la manière de transporter son publique à travers chaque histoire racontée.
 Entre les sonorités africaines et un humour un peu décalé, Souleymane Mboj transmets avec habilité des valeurs et des enseignants issus de la culture africaine.
