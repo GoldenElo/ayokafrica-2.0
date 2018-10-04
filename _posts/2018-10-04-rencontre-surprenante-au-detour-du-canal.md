@@ -17,4 +17,8 @@ Avec sa guitare, ce griot des temps modernes a tenu en haleine petits et grands 
 Cette séance dédicace était un vrai hymne à la culture africaine et un vrai moment de partage.
 "Si vous voulez transmettre une histoire, transmettez là aux enfants" ou encore "Je vous ai raconté une histoire maintenant elle vous appartient, à vous de la transmettre"...Ainsi s’exprimait le libre penseur de la Terranga venu transmettre son art aux jeunes lecteurs du pavé du canal.
 
-Pour en savoir plus sur cet auteur rendez-vous sur son site internet : www.leebkat.com
+&nbsp;
+
+<img class="alignnone size-medium wp-image-723" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/WhatsApp-Image-2018-10-04-at-00.53.40-1-300x225.jpeg" alt="" width="300" height="225" />
+
+Pour en savoir plus sur cet artiste rendez-vous sur son site internet : www.leebkat.com
