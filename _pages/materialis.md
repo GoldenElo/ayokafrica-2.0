@@ -153,18 +153,6 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 
 </div>
 </div>
-</div><div  data-label="Content" data-id="content--1" data-export-id="content-7-materialis" data-category="content" class="content-7m content-section-spacing-large content-section" id="content-1" style="background-color: #ffffff; background-image: none;">
-<div  class="gridContainer">
-<div  class="row middle-sm">
-<div  class="col-md-6 col-xs-12 col-sm-6 col-padding-small-xs"><img  class="mdc-elevation--z13 img-rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-619-07998034en_Masterfile-3.jpg"></div>
-<div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
-<h6  class="upper">Rejoingnez nous !&nbsp;</h6>
-<h3  class="space-bottom">Auteurs, Podcasters, Editeurs, Narrateurs</h3>
-<p  class="space-top"></p>
-
-</div>
-</div>
-</div>
 </div><div data-label="About" data-id="about--4" data-export-id="about-9" data-category="about" class="about-9 content-section content-section-spacing-large" id="about-4"  style="background-color: rgb(245, 250, 253);"><div class="gridContainer" > <div class="row middle-sm text-center" ><div class="col-sm-5 space-bottom-xs content-column content-left-sm" data-type="column" > <h5 class="" >Rejoignez nous !</h5> <h2 class="" >Auteurs, éditeurs&nbsp;<br ><font face="Playfair Display, sans-serif" ><b ><i >Podcasters
 </i></b></font>Narrateurs</h2> <p class="" >Publier vos contenus audios sur Ayokafrica ou devenir narrateur est simple et gratuit. <br >1. Envoyez nous un mail à l’adresse : contact@ayokafrica.com pour nous décrire votre projet (devenir narrateur, publier ou réaliser un livre audio ou un Podcast,...)<br >2. Nous vous re-contactons dans un délai maximum d’une semaine afin de vous proposer un entretien (téléphonique ou visuel) <br >3. Dès que nous arrivons à un accord signé, nous publions et/ou enregistrons votre contenu. <br >4. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p> <a class="button big color1" href="www.ayokafrica.com/contact"  target="_self" data-cp-link="1">Rejoignez nous</a></div> <div class="col-sm-7 flexbox flexbox middle-xs center-xs" ><div class="overlay-box flexbox middle-xs center-xs overlay-holder " > <div class="overlay-box-offset offset-background mdc-elevation--z5 bg-color2 border-radius-8" ></div> <img class="flexbox mdc-elevation--z10 img1 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/cropped-rap-1713404.jpg" ></div> </div></div> </div></div><div  data-label="Cta" data-id="cta--1" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" id="cta-1" data-parallax-depth="20" data-ovid="1" style="background-color: #ffffff; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
 <div  class="">
@@ -177,25 +165,6 @@ Notre campagne de crowdfunding est en cours de préparation.
 
 En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux sociaux.</p>
 <a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donations/don_ayoka" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 103.657px; --mdc-ripple-fg-scale: 1.84151;">Faire un don</a>
-
-</div>
-</div>
-</div>
-</div>
-</div><div  data-label="About" data-id="about--3" data-export-id="about-10" data-category="about" class="about-10 content-section content-section-spacing-large" id="about-3" style="background-color: #ffffff;">
-<div  class="gridContainer">
-<div  class="row middle-sm text-center">
-<div  class="col-sm-5 space-bottom-xs content-column" data-type="column">
-<h5  class="">La Newsletter</h5>
-<p  class="">Pour être informé des dernières sorties sur Ayokafrica et suivre toute notre actualité, inscrivez à la newsletter !
-Professionnel(le)s, cette newsletter est également faites pour vous. En effet vous pourrez profiter en avant première de nos promotions.</p>
-<a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/newsletter" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 117.773px; --mdc-ripple-fg-scale: 1.8126;">Inscrivez vous !</a>
-
-</div>
-<div  class="col-sm-7 flexbox middle-xs center-xs">
-<div  class="overlay-box middle-xs center-xs flexbox box-image">
-<div  class="overlay-box-offset offset-border mdc-elevation--z5 border-color1 hide-xs border-radius-8 max-image"></div>
-<img  class="mdc-elevation--z10 rounded max-image" data-size="480x700" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-phone-869669_1920-1.jpg">
 
 </div>
 </div>
