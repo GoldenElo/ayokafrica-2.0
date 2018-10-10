@@ -47,9 +47,9 @@ post_date: 2018-07-12 21:47:47
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
 <h4  class="color-black">Petit Bodiel </h4>
-<p  class="">Courage Petit Bodiel ! Il faut oser, car l'audace est souvent un gage de succès sur cette terre où la filouterie est chose courante. 
+<p  class="">Courage Petit Bodiel ! Il faut oser, car l’audace est souvent un gage de succès sur cette terre où la filouterie est chose courante. 
 <br >
-<br >-Amadou Hampâté Bâ - </p>
+<br >-Amadou Hampâté Bâ – </p>
 
 </div>
 </div>
@@ -64,7 +64,7 @@ post_date: 2018-07-12 21:47:47
 <h2  class=""><span  style="font-family: Playfair Display, sans-serif;"><b ><i >Avez-vous besoin de motivations ?</i></b></span></h2>
 <p  class="">Ayokafrica vous propose un large choix de Podcasts et de livres audios sur le développement personnel et coaching.
 Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre carrière ? Cette section est faite pour vous.</p>
-<a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/catalogue" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 120.09999389648436px; --mdc-ripple-fg-scale: 1.8095144309519096;">Notre catalogue</a>
+<a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/catalogue" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 120.165px; --mdc-ripple-fg-scale: 1.80854;">Notre catalogue</a>
 
 </div>
 <div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom"><img  class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-athlete-1840437_1920-1.jpg"> <img  class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-macbook-2617385_1920-Copie-1.jpg"></div>
@@ -115,7 +115,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Livre 1</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.88999938964844px; --mdc-ripple-fg-scale: 1.8050768558828107;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -130,7 +130,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Livre 2</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.88999938964844px; --mdc-ripple-fg-scale: 1.8050768558828107;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -145,7 +145,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Livre 3</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.88999938964844px; --mdc-ripple-fg-scale: 1.8050768558828107;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -160,7 +160,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Espace publicitaire 1</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 87.48999938964843px; --mdc-ripple-fg-scale: 1.8425363620129596;">Contactez nous</a>
+<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 87.4575px; --mdc-ripple-fg-scale: 1.84262;">Contactez nous</a>
 
 </div>
 </div>
@@ -175,7 +175,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Espace publicitaire 2</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 87.48999938964843px; --mdc-ripple-fg-scale: 1.8425363620129596;">Contactez nous</a>
+<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 87.4575px; --mdc-ripple-fg-scale: 1.84262;">Contactez nous</a>
 
 </div>
 </div>
@@ -190,7 +190,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Espace publicitaire 3</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 87.48999938964843px; --mdc-ripple-fg-scale: 1.8425363620129596;">Contactez nous</a>
+<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 87.4575px; --mdc-ripple-fg-scale: 1.84262;">Contactez nous</a>
 
 </div>
 </div>
@@ -205,7 +205,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Livre 4</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.88999938964844px; --mdc-ripple-fg-scale: 1.8050768558828107;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -220,7 +220,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Livre 5</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.88999938964844px; --mdc-ripple-fg-scale: 1.8050768558828107;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -235,7 +235,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Livre 6</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.88999938964844px; --mdc-ripple-fg-scale: 1.8050768558828107;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -272,7 +272,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 Notre campagne de crowdfunding est en cours de préparation.
 
 En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux sociaux.</p>
-<a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donations/don_ayoka" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 103.60000305175781px; --mdc-ripple-fg-scale: 1.8427966162031546;">Faire un don</a>
+<a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donations/don_ayoka" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 103.657px; --mdc-ripple-fg-scale: 1.84151;">Faire un don</a>
 
 </div>
 </div>
@@ -285,7 +285,7 @@ En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux
 <h6  class="upper">NOS ESPACES PUBLICITAIRES</h6>
 <h3  class="">Boostez vos ventes</h3>
 <p  class="space-top">Ayokafrica propose plusieurs packs publicitaires adaptés à vos objectifs de ventes.</p>
-<a  href="http://www.ayokafrica.com/www.ayokafrica.com/nos-offres" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="position: relative; top: 0px; --mdc-ripple-fg-translate-start: -98.3963px, -94.4338px; --mdc-ripple-fg-translate-end: 63.6225px, -75.4338px; left: 0px; --mdc-ripple-fg-size: 78.86000061035156px; --mdc-ripple-fg-scale: 1.8689487888469414;">En savoir plus<i  class="mdi mdi-arrow-right-thick"></i></a>
+<a  href="http://www.ayokafrica.com/www.ayokafrica.com/nos-offres" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="position: relative; top: 0px; --mdc-ripple-fg-translate-start: -98.3963px, -94.4338px; --mdc-ripple-fg-translate-end: 63.6225px, -75.4338px; left: 0px; --mdc-ripple-fg-size: 78.8025px; --mdc-ripple-fg-scale: 1.86915;">En savoir plus<i  class="mdi mdi-arrow-right-thick"></i></a>
 
 </div>
 <div  class="col-md-6 col-md-offset-1 col-xs-12 col-sm-6"><img  class="mdc-elevation--z9 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-digital-marketing-1433427_1920-1.jpg"></div>
@@ -315,7 +315,7 @@ En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux
 <h5  class="">La Newsletter</h5>
 <p  class="">Pour être informé des dernières sorties sur Ayokafrica et suivre toute notre actualité, inscrivez à la newsletter !
 Professionnel(le)s, cette newsletter est également faites pour vous. En effet vous pourrez profiter en avant première de nos promotions.</p>
-<a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/newsletter" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 117.71999816894531px; --mdc-ripple-fg-scale: 1.8135877773988143;">Inscrivez vous !</a>
+<a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/newsletter" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 117.773px; --mdc-ripple-fg-scale: 1.8126;">Inscrivez vous !</a>
 
 </div>
 <div  class="col-sm-7 flexbox middle-xs center-xs">
