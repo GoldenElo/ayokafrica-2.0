@@ -69,34 +69,6 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom"><img  class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-athlete-1840437_1920-1.jpg"> <img  class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-macbook-2617385_1920-Copie-1.jpg"></div>
 </div>
 </div>
-</div><div  data-label="Features" data-id="features--1" data-export-id="features-10-materialis" data-category="features" class="features-10m content-section-spacing-large content-section" id="features-1" style="background-color: #f5fafd;">
-<div  class="gridContainer">
-<div  class="row">
-<div  class="section-title-col" data-type="column">
-<h2  class="">Nos catégories</h2>
-<p  class="">Prenez le temps de vous divertir, d’apprendre, de vous évader à travers des histoires lues et traduites par des orateurs d’exeption.</p>
-
-</div>
-</div>
-<div  class="row ">
-<div  class="col-md-10 col-md-offset-1 ">
-<div  class="row space-top spaced-cols content-center-sm" data-type="row">
-
-<div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-human-child reverse round big"></i> <a  class="link" href="http://www.ayokafrica.com/www.ayokafrica.com/product-category/contes" target="_self" data-cp-link="1">Contes d’Afrique et d’ailleurs</a></div>
-</div>
-
-
-<div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-run-fast reverse round big"></i> <a  class="link" href="http://www.ayokafrica.com/www.ayokafrica.com/product-category/developpement-personnel" target="_self" data-cp-link="1">Développement personnel</a></div>
-</div>
-<div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-audiobook reverse round big"></i> <a  class="link" href="http://www.ayokafrica.com/www.ayokafrica.com/product-category/podcast" target="_self" data-cp-link="1"> Podcasts &amp; formation </a></div>
-</div>
-</div>
-</div>
-</div>
-</div>
 </div><div  data-label="Portfolio" data-id="portfolio--1" data-export-id="portfolio-1-materialis" data-category="portfolio" class="portfolio-1-materialis content-section" id="portfolio-1" style="background-color: #ffffff;">
 <div >
 <div  class="row text-center" data-type="row" data-fixed="true">
@@ -153,8 +125,35 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 
 </div>
 </div>
-</div><div  data-label="About" data-id="about--4" data-export-id="about-9" data-category="about" class="about-9 content-section content-section-spacing-large" id="about-4" style="background-color: rgb(245, 250, 253);"><div  class="gridContainer"> <div  class="row middle-sm text-center"><div  class="col-sm-5 space-bottom-xs content-column content-left-sm" data-type="column"> <h5  class="">Rejoignez nous !</h5> <h2  class="">Auteurs, éditeurs&nbsp;<br ><font  face="Playfair Display, sans-serif"><b ><i >Podcasters
-</i></b></font>Narrateurs</h2> <p  class="">Publier vos contenus audios sur Ayokafrica ou devenir narrateur est simple et gratuit. <br >1. Envoyez nous un mail à l’adresse : contact@ayokafrica.com pour nous décrire votre projet (devenir narrateur, publier ou réaliser un livre audio ou un Podcast,…)<br >2. Nous vous re-contactons dans un délai maximum d’une semaine afin de vous proposer un entretien (téléphonique ou visuel) <br >3. Dès que nous arrivons à un accord signé, nous publions et/ou enregistrons votre contenu. <br >4. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p> <a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/contact" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 116.633px; --mdc-ripple-fg-scale: 1.81501;">Rejoignez nous</a></div> <div  class="col-sm-7 flexbox flexbox middle-xs center-xs"><div  class="overlay-box flexbox middle-xs center-xs overlay-holder "> <div  class="overlay-box-offset offset-background mdc-elevation--z5 bg-color2 border-radius-8"></div> <img  class="flexbox mdc-elevation--z10 img1 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/cropped-rap-1713404.jpg"></div> </div></div> </div></div><div  data-label="Cta" data-id="cta--1" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" id="cta-1" data-parallax-depth="20" data-ovid="1" style="background-color: #ffffff; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
+</div><div  data-label="Features" data-id="features--1" data-export-id="features-10-materialis" data-category="features" class="features-10m content-section-spacing-large content-section" id="features-1" style="background-color: #f5fafd;">
+<div  class="gridContainer">
+<div  class="row">
+<div  class="section-title-col" data-type="column">
+<h2  class="">Nos catégories</h2>
+<p  class="">Prenez le temps de vous divertir, d’apprendre, de vous évader à travers des histoires lues et traduites par des orateurs d’exeption.</p>
+
+</div>
+</div>
+<div  class="row ">
+<div  class="col-md-10 col-md-offset-1 ">
+<div  class="row space-top spaced-cols content-center-sm" data-type="row">
+
+<div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
+<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-human-child reverse round big"></i> <a  class="link" href="http://www.ayokafrica.com/www.ayokafrica.com/product-category/contes" target="_self" data-cp-link="1">Contes d’Afrique et d’ailleurs</a></div>
+</div>
+
+
+<div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
+<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-run-fast reverse round big"></i> <a  class="link" href="http://www.ayokafrica.com/www.ayokafrica.com/product-category/developpement-personnel" target="_self" data-cp-link="1">Développement personnel</a></div>
+</div>
+<div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
+<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-audiobook reverse round big"></i> <a  class="link" href="http://www.ayokafrica.com/www.ayokafrica.com/product-category/podcast" target="_self" data-cp-link="1"> Podcasts &amp; formation </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div  data-label="Cta" data-id="cta--1" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" id="cta-1" data-parallax-depth="20" data-ovid="1" style="background-color: #ffffff; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
 <div  class="">
 <div  class="row text-center col-sm-padding-medium">
 <div  class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 card mdc-elevation--z3 box-padding-lr-small">
@@ -170,7 +169,8 @@ En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux
 </div>
 </div>
 </div>
-</div><div  data-label="Contact" data-id="contact--1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing-large content-relative white-text" data-parallax-depth="20" id="contact-1" style="background-color: #f5fafd; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
+</div><div  data-label="About" data-id="about--4" data-export-id="about-9" data-category="about" class="about-9 content-section content-section-spacing-large" id="about-4" style="background-color: rgb(245, 250, 253);"><div  class="gridContainer"> <div  class="row middle-sm text-center"><div  class="col-sm-5 space-bottom-xs content-column content-left-sm" data-type="column"> <h5  class="">Rejoignez nous !</h5> <h2  class="">Auteurs, éditeurs&nbsp;<br ><font  face="Playfair Display, sans-serif"><b ><i >Podcasters
+</i></b></font>Narrateurs</h2> <p  class="">Publier vos contenus audios sur Ayokafrica ou devenir narrateur est simple et gratuit. <br >1. Envoyez nous un mail à l’adresse : contact@ayokafrica.com pour nous décrire votre projet (devenir narrateur, publier ou réaliser un livre audio ou un Podcast,…)<br >2. Nous vous re-contactons dans un délai maximum d’une semaine afin de vous proposer un entretien (téléphonique ou visuel) <br >3. Dès que nous arrivons à un accord signé, nous publions et/ou enregistrons votre contenu. <br >4. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p> <a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/contact" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 116.633px; --mdc-ripple-fg-scale: 1.81501;">Rejoignez nous</a></div> <div  class="col-sm-7 flexbox flexbox middle-xs center-xs"><div  class="overlay-box flexbox middle-xs center-xs overlay-holder "> <div  class="overlay-box-offset offset-background mdc-elevation--z5 bg-color2 border-radius-8"></div> <img  class="flexbox mdc-elevation--z10 img1 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/cropped-rap-1713404.jpg"></div> </div></div> </div></div><div  data-label="Contact" data-id="contact--1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing-large content-relative white-text" data-parallax-depth="20" id="contact-1" style="background-color: #f5fafd; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
 <div  class="gridContainer">
 <div  class="row text-center">
 <div  class="section-title-col" data-type="column">
