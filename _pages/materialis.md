@@ -158,22 +158,20 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row middle-sm">
 <div  class="col-md-6 col-xs-12 col-sm-6 col-padding-small-xs"><img  class="mdc-elevation--z13 img-rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-619-07998034en_Masterfile-3.jpg"></div>
 <div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
-<h6  class="upper">Pour nos partenaires</h6>
-<h3  class="space-bottom">Auteurs, Podcasters, Editeurs</h3>
+<h6  class="upper">Rejoingnez nous !&nbsp;</h6>
+<h3  class="space-bottom">Auteurs, Podcasters, Editeurs, Narrateurs</h3>
 <p  class="space-top">Publier vos contenus audios sur Ayokafrica est simple et gratuit.
 
-<br >1. Envoyez nous un mail à l’adresse : contact@ayokafrica.com pour nous décrire le contenu de votre oeuvre ainsi que son format actuel (audio, papier, ou e-book)
+<br >1. Envoyez nous un mail à l’adresse : contact@ayokafrica.com pour nous décrire votre projet (devenir narrateur, publier ou réaliser un livre audio ou un Podcast,...)<br >2. Nous vous re-contactons dans un délai maximum d’une semaine&nbsp;afin de vous proposer un entretien (téléphonique ou visuel)
 
-<br >2. Nous vous re-contactons dans un délai d’une semaine&nbsp;afin de vous proposer un entretien (téléphonique ou visuel)
-
-<br >3. Dès que nous arrivons à un accord signé, nous publions votre contenu.
+<br >3. Dès que nous arrivons à un accord signé, nous publions et/ou enregistrons votre contenu.
 
 <br >4. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p>
 
 </div>
 </div>
 </div>
-</div><div  data-label="Cta" data-id="cta--1" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" id="cta-1" data-parallax-depth="20" data-ovid="1" style="background-color: #ffffff; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
+</div><div data-label="About" data-id="about--4" data-export-id="about-9" data-category="about" class="about-9 content-section content-section-spacing-large" id="about-4"  style="background-color: rgb(245, 250, 253);"><div class="gridContainer" > <div class="row middle-sm text-center" ><div class="col-sm-5 space-bottom-xs content-column content-right-sm" data-type="column" > <h5 class="" >LOREM IPSUM DOLOR</h5> <h2 class="" >Enjoy the best <br > <span style="font-family: Playfair Display,sans-serif; font-weight: 700; font-style: italic;" href="#" >design and functions</span> combined together</h2> <p class="" >Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> <a class="button big color1" href="#" >GET STARTED NOW</a></div> <div class="col-sm-7 flexbox flexbox middle-xs center-xs" ><div class="overlay-box flexbox middle-xs center-xs overlay-holder " > <div class="overlay-box-offset offset-background mdc-elevation--z5 bg-color2 hide-xs border-radius-8" ></div> <img class="flexbox mdc-elevation--z10 img1 rounded" src="http://www.ayokafrica.com/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/urban-438393.jpg" ></div> </div></div> </div></div><div  data-label="Cta" data-id="cta--1" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" id="cta-1" data-parallax-depth="20" data-ovid="1" style="background-color: #ffffff; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
 <div  class="">
 <div  class="row text-center col-sm-padding-medium">
 <div  class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 card mdc-elevation--z3 box-padding-lr-small">
@@ -185,36 +183,6 @@ Notre campagne de crowdfunding est en cours de préparation.
 En attendant, vous pouvez nous faire un don et/ou nous soutenir sur les réseaux sociaux.</p>
 <a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donations/don_ayoka" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 103.657px; --mdc-ripple-fg-scale: 1.84151;">Faire un don</a>
 
-</div>
-</div>
-</div>
-</div>
-</div><div  data-label="Content" data-id="content--2" data-export-id="content-8-materialis" data-category="content" class="content-8m content-section-spacing-large content-section" id="content-2" style="background-color: #f5fafd;">
-<div  class="gridContainer">
-<div  class="row middle-sm">
-<div  class="col-md-5 col-xs-12 col-sm-6 space-bottom-xs" data-type="column">
-<h6  class="upper">NOS ESPACES PUBLICITAIRES</h6>
-<h3  class="">Boostez vos ventes</h3>
-<p  class="space-top">Ayokafrica propose plusieurs packs publicitaires adaptés à vos objectifs de ventes.</p>
-<a  href="http://www.ayokafrica.com/www.ayokafrica.com/nos-offres" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1" style="position: relative; top: 0px; --mdc-ripple-fg-translate-start: -98.3963px, -94.4338px; --mdc-ripple-fg-translate-end: 63.6225px, -75.4338px; left: 0px; --mdc-ripple-fg-size: 78.8025px; --mdc-ripple-fg-scale: 1.86915;">En savoir plus<i  class="mdi mdi-arrow-right-thick"></i></a>
-
-</div>
-<div  class="col-md-6 col-md-offset-1 col-xs-12 col-sm-6"><img  class="mdc-elevation--z9 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-digital-marketing-1433427_1920-1.jpg"></div>
-</div>
-</div>
-</div><div  data-label="Contact" data-id="contact--1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing-large content-relative white-text" data-parallax-depth="20" id="contact-1" style="background-color: #f5fafd; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
-<div  class="gridContainer">
-<div  class="row text-center">
-<div  class="section-title-col" data-type="column">
-<h2  class="">Nous contacter</h2>
-<p  class="lead">Pour toutes informations, réclamations sur nos prestations ou sur l’utilisation du site, n’hésitez pas à nous laisser un message à travers le formulaire ci-dessous</p>
-
-</div>
-</div>
-<div  class="row text-center">
-<div  class="col-xs-12 col-sm-8 col-sm-offset-2 contact-form-wrapper inline-info">
-<div  class="card mdc-elevation--z3 col-padding-top">
-<div  class="dark-text" data-content-shortcode="materialis_contact_form shortcode=&quot;contact-form-7 id=&amp;amp;quot;134&amp;amp;quot; title=&amp;amp;quot;Contact form 1&amp;amp;quot;&quot;" data-editable="true">[materialis_contact_form shortcode="contact-form-7 id=&amp;quot;134&amp;quot; title=&amp;quot;Contact form 1&amp;quot;"]</div>
 </div>
 </div>
 </div>
@@ -234,6 +202,23 @@ Professionnel(le)s, cette newsletter est également faites pour vous. En effet v
 <div  class="overlay-box-offset offset-border mdc-elevation--z5 border-color1 hide-xs border-radius-8 max-image"></div>
 <img  class="mdc-elevation--z10 rounded max-image" data-size="480x700" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-phone-869669_1920-1.jpg">
 
+</div>
+</div>
+</div>
+</div>
+</div><div  data-label="Contact" data-id="contact--1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing-large content-relative white-text" data-parallax-depth="20" id="contact-1" style="background-color: #f5fafd; background-image: url('http://www.ayokafrica.com/wp-content/uploads/2018/07/headphones-338492_1920.jpg'); background-size: cover; background-position: center top;">
+<div  class="gridContainer">
+<div  class="row text-center">
+<div  class="section-title-col" data-type="column">
+<h2  class="">Nous contacter</h2>
+<p  class="lead">Pour toutes informations, réclamations sur nos prestations ou sur l’utilisation du site, n’hésitez pas à nous laisser un message à travers le formulaire ci-dessous</p>
+
+</div>
+</div>
+<div  class="row text-center">
+<div  class="col-xs-12 col-sm-8 col-sm-offset-2 contact-form-wrapper inline-info">
+<div  class="card mdc-elevation--z3 col-padding-top">
+<div  class="dark-text" data-content-shortcode="materialis_contact_form shortcode=&quot;contact-form-7 id=&amp;amp;quot;134&amp;amp;quot; title=&amp;amp;quot;Contact form 1&amp;amp;quot;&quot;" data-editable="true">[materialis_contact_form shortcode="contact-form-7 id=&amp;quot;134&amp;quot; title=&amp;quot;Contact form 1&amp;quot;"]</div>
 </div>
 </div>
 </div>
