@@ -32,7 +32,7 @@ post_date: 2018-07-12 21:47:47
 <div  class="row">
 <div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-audiobook reverse round big"></i></div>
 <div  class="col-sm" data-type="column">
-<h4  class="color-black">Nations nègres et culture</h4>
+<h4  class="color-black">Nations nègres&nbsp;</h4>
 <p  class="">La facilité avec laquelle nous renonçons, souvent, à notre culture ne s’explique que par notre ignorance de celle-ci.
 
 <br >– Cheick Anta Diop –</p>
