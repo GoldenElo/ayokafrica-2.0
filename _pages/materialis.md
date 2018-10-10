@@ -147,7 +147,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-run-fast reverse round big"></i> <a  class="link" href="http://www.ayokafrica.com/www.ayokafrica.com/product-category/developpement-personnel" target="_self" data-cp-link="1">Développement personnel</a></div>
 </div>
 <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-audiobook reverse round big"></i> <a  class="link" href="www.ayokafrica.com/product-category/podcast" target="_self" data-cp-link="1"> Podcasts &amp; conférences </a></div>
+<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-audiobook reverse round big"></i> <a  class="link" href="https://goo.gl/V6VEup" target="_self" data-cp-link="1"> Podcasts &amp; conférences </a></div>
 </div>
 </div>
 </div>
