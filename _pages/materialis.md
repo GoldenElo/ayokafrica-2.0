@@ -145,96 +145,12 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 </div>
 </div>
 </div>
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-<div  class="contentswap-effect" data-hover-fx="portfolio-1">
-<div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-4.png"></div>
-<div  class="overlay bg-color-black"></div>
-<div  class="swap-inner col-xs-12">
-<div  class="row full-height-row middle-xs">
-<div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">Espace publicitaire 1</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 87.4575px; --mdc-ripple-fg-scale: 1.84262;">Contactez nous</a>
 
-</div>
-</div>
-</div>
-</div>
-</div>
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-<div  class="contentswap-effect" data-hover-fx="portfolio-1">
-<div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-5.png"></div>
-<div  class="overlay bg-color-black"></div>
-<div  class="swap-inner col-xs-12">
-<div  class="row full-height-row middle-xs">
-<div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">Espace publicitaire 2</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 87.4575px; --mdc-ripple-fg-scale: 1.84262;">Contactez nous</a>
 
-</div>
-</div>
-</div>
-</div>
-</div>
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-<div  class="contentswap-effect" data-hover-fx="portfolio-1">
-<div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-7.png"></div>
-<div  class="overlay bg-color-black"></div>
-<div  class="swap-inner col-xs-12">
-<div  class="row full-height-row middle-xs">
-<div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">Espace publicitaire 3</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 87.4575px; --mdc-ripple-fg-scale: 1.84262;">Contactez nous</a>
 
-</div>
-</div>
-</div>
-</div>
-</div>
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-<div  class="contentswap-effect" data-hover-fx="portfolio-1">
-<div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-headphones-690685_1920-1.jpg"></div>
-<div  class="overlay bg-color-black"></div>
-<div  class="swap-inner col-xs-12">
-<div  class="row full-height-row middle-xs">
-<div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">Livre 4</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
-</div>
-</div>
-</div>
-</div>
-</div>
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-<div  class="contentswap-effect" data-hover-fx="portfolio-1">
-<div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-music-791187_1920-1.jpg"></div>
-<div  class="overlay bg-color-black"></div>
-<div  class="swap-inner col-xs-12">
-<div  class="row full-height-row middle-xs">
-<div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">Livre 5</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
-</div>
-</div>
-</div>
-</div>
-</div>
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-<div  class="contentswap-effect" data-hover-fx="portfolio-1">
-<div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-afrique_noire-1.jpg"></div>
-<div  class="overlay bg-color-black"></div>
-<div  class="swap-inner col-xs-12">
-<div  class="row full-height-row middle-xs">
-<div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">Livre 6</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
-</div>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div><div  data-label="Content" data-id="content--1" data-export-id="content-7-materialis" data-category="content" class="content-7m content-section-spacing-large content-section" id="content-1" style="background-color: #ffffff; background-image: none;">
@@ -246,11 +162,13 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <h3  class="space-bottom">Auteurs, Podcasters, Editeurs</h3>
 <p  class="space-top">Publier vos contenus audios sur Ayokafrica est simple et gratuit.
 
-1. Envoyez nous un mail à l’adresse : publication@ayokafrica.com pour nous décrire le contenu de votre oeuvre ainsi que son format actuel (audio, papier, ou e-book)
-2. Nous vous re-contactons dans un délai d’une semaine&nbsp;afin de vous proposer un entretien (téléphonique ou visuel)
-3. Dès que nous arrivons à un accord signé, nous publions votre contenu.
+<br >1. Envoyez nous un mail à l’adresse : contact@ayokafrica.com pour nous décrire le contenu de votre oeuvre ainsi que son format actuel (audio, papier, ou e-book)
 
-5. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p>
+<br >2. Nous vous re-contactons dans un délai d’une semaine&nbsp;afin de vous proposer un entretien (téléphonique ou visuel)
+
+<br >3. Dès que nous arrivons à un accord signé, nous publions votre contenu.
+
+<br >5. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p>
 
 </div>
 </div>
