@@ -1,6 +1,6 @@
 ---
 ID: 721
-post_title: ""
+post_title: Rencontre avec Souleymane Mboj
 author: goldenelo
 post_excerpt: ""
 layout: post
