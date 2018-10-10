@@ -168,7 +168,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 
 <br >3. Dès que nous arrivons à un accord signé, nous publions votre contenu.
 
-<br >5. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p>
+<br >4. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p>
 
 </div>
 </div>
