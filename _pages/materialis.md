@@ -72,7 +72,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 </div><div  data-label="Portfolio" data-id="portfolio--1" data-export-id="portfolio-1-materialis" data-category="portfolio" class="portfolio-1-materialis content-section" id="portfolio-1" style="background-color: #ffffff;">
 <div >
 <div  class="row text-center" data-type="row" data-fixed="true">
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+<div  class="col-sm-6 col-xs-12 no-gutter-col col-md-3">
 <div  class="contentswap-effect" data-hover-fx="portfolio-1">
 <div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2018/09/cropped-claudel1.jpg"></div>
 <div  class="overlay bg-color-black"></div>
@@ -87,7 +87,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 </div>
 </div>
 </div>
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+<div  class="col-sm-6 col-xs-12 no-gutter-col col-md-3">
 <div  class="contentswap-effect" data-hover-fx="portfolio-1">
 <div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-003484-4.jpg"></div>
 <div  class="overlay bg-color-black"></div>
@@ -102,7 +102,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 </div>
 </div>
 </div>
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+<div  class="col-sm-6 col-xs-12 no-gutter-col col-md-3">
 <div  class="contentswap-effect" data-hover-fx="portfolio-1">
 <div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/cropped-child-1565202_1920.jpg"></div>
 <div  class="overlay bg-color-black"></div>
@@ -123,7 +123,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 
 
 
-<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+<div  class="col-sm-6 col-xs-12 no-gutter-col col-md-3">
 <div  class="contentswap-effect" data-hover-fx="portfolio-1">
 <div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/cropped-Winter-Destinations-for-Christmas.png"></div>
 <div  class="overlay bg-color-black"></div>
