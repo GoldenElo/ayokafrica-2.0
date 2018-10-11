@@ -123,7 +123,21 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 
 
 
+<div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+<div  class="contentswap-effect" data-hover-fx="portfolio-1">
+<div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/cropped-Winter-Destinations-for-Christmas.png"></div>
+<div  class="overlay bg-color-black"></div>
+<div  class="swap-inner col-xs-12">
+<div  class="row full-height-row middle-xs">
+<div  class="col-xs-12 text-center white-text">
+<h4  class="font-500">L'Afrique au secours de l'Afrique</h4>
+<a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/product/conference-lafrique-au-secours-de-lafrique-8eme-edition" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.842px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
+
 </div>
+</div>
+</div>
+</div>
+</div></div>
 </div>
 </div><div  data-label="Features" data-id="features--1" data-export-id="features-10-materialis" data-category="features" class="features-10m content-section-spacing-large content-section" id="features-1" style="background-color: #f5fafd;">
 <div  class="gridContainer">
