@@ -16,7 +16,7 @@ Il se définit lui même comme un libre penseur. On apprend en discutant avec lu
 Entre les sonorités africaines et un humour un peu décalé, Souleymane Mboj transmets avec habilité des valeurs et des enseignants issus de la culture africaine.
 Avec sa guitare, ce griot des temps modernes a tenu en haleine petits et grands avec plusieurs histoires narrées dans les règles de l'art.
 Cette séance dédicace était un vrai hymne à la culture africaine et un vrai moment de partage.
-"Si vous voulez transmettre une histoire, transmettez là aux enfants" ou encore "Je vous ai raconté une histoire maintenant elle vous appartient, à vous de la transmettre"...Ainsi s’exprimait le libre penseur de la Terranga venu transmettre son art aux jeunes lecteurs du pavé du canal.
+"Si vous voulez transmettre une histoire, transmettez là aux enfants" ou encore "Je vous ai raconté une histoire maintenant elle vous appartient, à vous de la transmettre"...Ainsi s’exprimait le libre penseur de la Teranga venu transmettre son art aux jeunes lecteurs du pavé du canal.
 
 &nbsp;
 
