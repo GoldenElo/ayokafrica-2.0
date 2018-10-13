@@ -130,7 +130,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="swap-inner col-xs-12">
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">L'Afrique au secours de l'Afrique</h4>
+<h4  class="font-500">L’Afrique au secours de l’Afrique</h4>
 <a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/product/conference-lafrique-au-secours-de-lafrique-8eme-edition" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.842px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
