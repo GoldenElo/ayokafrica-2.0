@@ -153,7 +153,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row space-top spaced-cols content-center-sm" data-type="row">
 
 <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-human-child reverse round big"></i> <a  class="link" href="https://goo.gl/R38K9G" target="_self" data-cp-link="1">Contes d’Afrique et d’ailleurs</a></div>
+<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-human-child reverse round big"></i> <a  class="link" href="https://goo.gl/CpVrSU" target="_self" data-cp-link="1">Contes d’Afrique et d’ailleurs</a></div>
 </div>
 
 
