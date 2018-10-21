@@ -5,7 +5,7 @@ author: goldenelo
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.ayokafrica.com/2018/10/21/audiobook/
+  http://www.ayokafrica.com/2018/10/21/livres-audio/
 published: true
 post_date: 2018-10-21 17:53:03
 ---
