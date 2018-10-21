@@ -10,6 +10,11 @@ published: true
 post_date: 2018-10-21 17:53:03
 ---
 <div class="_2cuy _3dgx" data-block="true" data-editor="7d4th" data-offset-key="1248o-0-0">
+<div data-offset-key="1248o-0-0">
+
+[caption id="attachment_829" align="alignnone" width="300"]<img class="size-medium wp-image-829" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/AYOKA-300x300.png" alt="livres audio" width="300" height="300" /> livres audio[/caption]
+
+</div>
 <div class="_1mf _1mj" data-offset-key="1248o-0-0"><span data-offset-key="1248o-0-0">C’est </span><span data-offset-key="1248o-0-1">Valéry Lué <em>(étudiant en Informatique à CERCO)</em></span><span data-offset-key="1248o-0-2"> qui le premier pense à créer <strong>une plateforme</strong><b> de livres audio en Côte d'Ivoire et en Afrique</b>.</span></div>
 </div>
 <div class="_2cuy _3dgx" data-block="true" data-editor="7d4th" data-offset-key="48pv0-0-0">
