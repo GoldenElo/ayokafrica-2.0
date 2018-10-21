@@ -1,6 +1,6 @@
 ---
 ID: 828
-post_title: 'Ayokafrica, l&rsquo;histoire d&rsquo;une plateforme de livres audio en Afrique'
+post_title: ""
 author: goldenelo
 post_excerpt: ""
 layout: post
