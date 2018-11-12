@@ -17,7 +17,7 @@ post_date: 2018-10-21 17:53:03
 <div class="_1mf _1mj" data-offset-key="48pv0-0-0"><span data-offset-key="48pv0-0-0">Fan de livres et de littérature, il constate qu’il a du mal à lire faute de temps. Le format audio devient donc une alternative évidente. </span></div>
 </div>
 <div class="_2cuy _3dgx" data-block="true" data-editor="7d4th" data-offset-key="690rr-0-0">
-<div class="_1mf _1mj" data-offset-key="690rr-0-0"><span data-offset-key="690rr-0-0">C’est ainsi qu’après avoir écouté plus d’une bonne vingtaine de <strong>livres audio</strong> gratuits dans plusieurs domaines (développement personnel, spiritualité, formation diverses,...), il lui vient une envie : s’abonner à la plateforme de <strong>livres audio</strong> Audible afin d’avoir accès à plus de <strong>livres</strong>.</span></div>
+<div class="_1mf _1mj" data-offset-key="690rr-0-0"><span data-offset-key="690rr-0-0">C’est ainsi qu’après avoir écouté plus d’une bonne vingtaine de <strong>livres audio</strong> gratuits dans plusieurs domaines (développement personnel, spiritualité, formation diverses,...), il lui vient une envie : s’abonner à la plateforme Audible afin d’avoir accès à plus de <strong>livres</strong>.</span></div>
 </div>
 <div class="_2cuy _3dgx" data-block="true" data-editor="7d4th" data-offset-key="bgfd4-0-0">
 <div class="_1mf _1mj" data-offset-key="bgfd4-0-0"><span data-offset-key="bgfd4-0-0">Problème, on ne peut pas s’abonner à cette plateforme (ni à aucune autre) depuis Abidjan, les moyens de paiement n’étant pas adaptés. De plus, il y a très peu de <strong>livres audio</strong> d’auteurs africains sur cette plateforme.</span></div>
@@ -30,5 +30,6 @@ post_date: 2018-10-21 17:53:03
 </div>
 <div class="_2cuy _3dgx" data-block="true" data-editor="7d4th" data-offset-key="6hs79-0-0">
 <div class="_1mf _1mj" data-offset-key="6hs79-0-0"><span data-offset-key="6hs79-0-0"><strong>Ayoka</strong> est un mot Bété (groupe ethnique de l’Ouest Ivoirien) qui signifie Merci. Ayokafrica est donc un hommage à l’Afrique, un merci pour tout ce qu’elle offre au monde entier.</span></div>
+<div data-offset-key="6hs79-0-0">Cliquez <a href="http://www.ayokafrica.com/catalogue/">ici</a> pour découvrir notre catalogue.</div>
 </div>
 <div class="_2cuy _3dgx" data-block="true" data-editor="7d4th" data-offset-key="ac9s6-0-0"></div>
