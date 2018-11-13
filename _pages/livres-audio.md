@@ -170,10 +170,14 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <span  style="font-family: Playfair Display, sans-serif;"><b ><i >Podcasters
 </i></b></span>Narrateurs</h2>
 <p  class="">Publier vos contenus audios sur Ayokafrica ou devenir narrateur est simple et gratuit.
-1. Envoyez nous un mail à l’adresse : contact@ayokafrica.com pour nous décrire votre projet (devenir narrateur, publier ou réaliser un livre audio ou un Podcast,…)
-2. Nous vous re-contactons dans un délai maximum d’une semaine afin de vous proposer un entretien (téléphonique ou visuel)
-3. Dès que nous arrivons à un accord signé, nous publions et/ou enregistrons votre contenu.
-4. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p>
+
+<br >1. Envoyez nous un mail à l’adresse : contact@ayokafrica.com pour nous décrire votre projet (devenir narrateur, publier ou réaliser un livre audio ou un Podcast,…)
+
+<br >2. Nous vous re-contactons dans un délai maximum d’une semaine afin de vous proposer un entretien (téléphonique ou visuel)
+
+<br >3. Dès que nous arrivons à un accord signé, nous publions et/ou enregistrons votre contenu.
+
+<br >4. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p>
 <a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/contact" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 116.632px; --mdc-ripple-fg-scale: 1.8146;">Rejoignez nous</a>
 
 </div>
