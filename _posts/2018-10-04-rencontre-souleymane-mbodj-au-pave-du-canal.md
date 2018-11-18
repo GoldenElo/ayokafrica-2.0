@@ -12,7 +12,7 @@ published: true
 post_date: 2018-10-04 01:19:47
 ---
 Ce mercredi 03 Octobre, nous avons fait la rencontre de Souleymane Mbodj, un conteur africain aux multiples facettes.
-Il se définit lui même comme un libre penseur. Initié très tôt à l'art des contes africains, il découvre également la musique très jeune.
+Il se définit lui même comme un libre penseur. Initié très tôt à l'art des contes africains, il découvre également la musique très jeune.
 
 Professeur de philosophie, guitariste<strong> et</strong> percussionniste, Souleymane Mbodj est un artiste complet qui a l'art et la manière de transporter son publique à travers chaque histoire racontée.
 Entre les sonorités africaines et un humour un peu décalé, Souleymane Mbodj transmets avec habilité des valeurs et des enseignements issus de la culture africaine.
