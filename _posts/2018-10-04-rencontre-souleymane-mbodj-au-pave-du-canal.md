@@ -24,4 +24,6 @@ Ainsi s’exprimait le libre penseur de la Teranga venu transmettre son art aux 
 
 <img class="alignnone size-medium wp-image-723" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/WhatsApp-Image-2018-10-04-at-00.53.40-1-300x225.jpeg" alt="" width="300" height="225" />
 
+Retrouvez plus des contes africains dans <a href="http://www.ayokafrica.com/product-category/contes/">notre catalogue.</a>
+
 Pour en savoir plus sur cet artiste rendez-vous sur son site internet, cliquez <a href="http://www.leebkat.com">ici</a>.
