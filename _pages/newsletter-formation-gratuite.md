@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-08-15 21:26:46
 ---
-<h3 style="text-align: center;">Inscrivez-vous à notre newsletter pour suivre toute l'actualité d'Ayokafrica et recevoir nos formations gratuites</h3>
+<h3 style="text-align: center;">Inscrivez-vous à notre newsletter pour suivre toute l'actualité d'Ayokafrica</h3>
 [newsletter]
 
 Pour consultez notre catalogue cliquez <a href="http://www.ayokafrica.com/catalogue/">ici</a>.
