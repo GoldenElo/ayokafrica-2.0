@@ -63,7 +63,7 @@ post_date: 2018-07-12 21:47:47
 <h2  class=""><span  style="font-family: Playfair Display, sans-serif;"><b ><i >Avez-vous besoin de motivations ?</i></b></span></h2>
 <p  class="">Ayokafrica vous propose un large choix de Podcasts et de livres audios sur le développement personnel et coaching.
 Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre carrière ? Cette section est faite pour vous.</p>
-<a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/catalogue" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 120.164px; --mdc-ripple-fg-scale: 1.80823;">Notre catalogue</a>
+<a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/catalogue" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 120.165px; --mdc-ripple-fg-scale: 1.80854;">Notre catalogue</a>
 
 </div>
 <div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom"><img  class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-athlete-1840437_1920-1.jpg"> <img  class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-macbook-2617385_1920-Copie-1.jpg"></div>
@@ -80,7 +80,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Le système productif</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/product/le-systeme-productif" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.836px; --mdc-ripple-fg-scale: 1.80517;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/product/le-systeme-productif" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -95,7 +95,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Discours de Thomas Sankara à Addis Abeba</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/product/thomas_sankara_sommet" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.836px; --mdc-ripple-fg-scale: 1.80517;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/product/thomas_sankara_sommet" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -110,7 +110,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">L’importance des noms donnés aux enfants</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="https://s3.eu-west-3.amazonaws.com/ayokafrica/Livres+audio/Limportance+des+noms+donn%C3%A9s+aux+enfants.mp3" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.836px; --mdc-ripple-fg-scale: 1.80517;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="https://s3.eu-west-3.amazonaws.com/ayokafrica/Livres+audio/Limportance+des+noms+donn%C3%A9s+aux+enfants.mp3" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -125,7 +125,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">L’Afrique au secours de l’Afrique</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/product/conference-lafrique-au-secours-de-lafrique-8eme-edition" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.836px; --mdc-ripple-fg-scale: 1.80517;">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/product/conference-lafrique-au-secours-de-lafrique-8eme-edition" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -150,7 +150,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-human-child reverse round big"></i> <a  class="link" href="https://bit.ly/2ECZhCr" target="_self" data-cp-link="1">Contes d’Afrique et d’ailleurs</a></div>
 </div>
 <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-run-fast reverse round big"></i> <a  class="link" target="_self" data-cp-link="1">Développement personnel</a></div>
+<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-run-fast reverse round big"></i> <a  class="link" target="_self" data-cp-link="1" href="https://bit.ly/2Sqqvy6">Développement personnel</a></div>
 </div>
 <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
 <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-audiobook reverse round big"></i> <a  class="link" href="https://bit.ly/2T5hOKL" target="_self" data-cp-link="1"> Podcasts &amp; conférences </a></div>
@@ -160,7 +160,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 </div>
 </div>
 </div><div  data-label="Cta" data-id="cta--1" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" id="cta-1" data-parallax-depth="20" data-ovid="1" style="background-color: rgb(255, 255, 255); background-image: url(&quot;http://www.ayokafrica.com/wp-content/uploads/2018/08/hands-2888625_1920.jpg&quot;); background-size: cover; background-position: center top;"><div  class="gridContainer"> <div  class="row text-center col-sm-padding-medium"><div  class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 card mdc-elevation--z3 box-padding-lr-small"> <div  data-type="column" class=""><h2  class="">Soutenez nous</h2> <p  class="">Ayokafrica, ambitionne de produire et promouvoire du contenu audio en langues africaines. Pour cela nous avons besoin de vous! Notre campagne de crowdfunding est en cours de préparation.<br >En attendant vous pouvez faire un don !
-</p> <a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donation" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 113.25px; --mdc-ripple-fg-scale: 1.82051;">FAIRE UN DON</a></div> </div></div> </div></div><div  data-label="About" data-id="about--4" data-export-id="about-9" data-category="about" class="about-9 content-section content-section-spacing-large" id="about-4" style="background-color: #f5fafd;">
+</p> <a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/donation" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 113.25px; --mdc-ripple-fg-scale: 1.82086;">FAIRE UN DON</a></div> </div></div> </div></div><div  data-label="About" data-id="about--4" data-export-id="about-9" data-category="about" class="about-9 content-section content-section-spacing-large" id="about-4" style="background-color: #f5fafd;">
 <div  class="gridContainer">
 <div  class="row middle-sm text-center">
 <div  class="col-sm-5 space-bottom-xs content-column content-left-sm" data-type="column">
@@ -177,7 +177,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <br >3. Dès que nous arrivons à un accord signé, nous publions et/ou enregistrons votre contenu.
 
 <br >4. Vous recevez un mail de bienvenue car vous faites désormais partie de la famille Ayokafrica.</p>
-<a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/contact" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 116.632px; --mdc-ripple-fg-scale: 1.81428;">Rejoignez nous</a>
+<a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/contact" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 116.632px; --mdc-ripple-fg-scale: 1.8146;">Rejoignez nous</a>
 
 </div>
 <div  class="col-sm-7 flexbox flexbox middle-xs center-xs">
