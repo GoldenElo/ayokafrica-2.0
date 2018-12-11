@@ -1,6 +1,8 @@
 ---
 ID: 1160
-post_title: '7 choses pour commencer à être plus productif aujourd&rsquo;hui'
+post_title: >
+  7 conseils pour commencer à être plus
+  productif
 author: goldenelo
 post_excerpt: >
   "La clé du succès n’est pas de
@@ -12,9 +14,17 @@ permalink: >
 published: true
 post_date: 2018-12-11 23:50:59
 ---
+<!-- wp:paragraph -->
+<p>Grace à cet article découvrez comment améliorer votre productivité</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:heading {"level":4} -->
 <h4><strong>Introduction</strong></h4>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>Quand j'avais 17 ans, je travaillais et étudiais environ 20 heures par jour. J’allais à l'école, je faisais mes devoirs pendant les pauses et gérais un organisme à but non lucratif le soir. À cette époque, travailler de longues heures me valait d'innombrables campagnes nationales, des opportunités de travailler avec des organisations de premier plan et une carrière réussie. En vieillissant, j'ai commencé à penser différemment. J'ai réalisé que travailler plus n'était pas toujours la bonne ou la seule voie du succès.</p>
