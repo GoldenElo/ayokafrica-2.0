@@ -2,7 +2,10 @@
 ID: 1160
 post_title: '7 choses pour commencer à être plus productif aujourd&rsquo;hui'
 author: goldenelo
-post_excerpt: ""
+post_excerpt: >
+  "La clé du succès n’est pas de
+  travailler dur. C’est de travailler
+  intelligemment "
 layout: post
 permalink: >
   http://www.ayokafrica.com/2018/12/11/7-choses-pour-commencer-a-etre-plus-productif-aujourdhui/
@@ -26,7 +29,7 @@ post_date: 2018-12-11 23:50:59
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p style="text-align:center"><strong><em>"   La clé du succès n’est pas de travailler dur. C’est de travailler intelligemment "</em></strong><br></p>
+<p style="text-align:center"><strong><em>" La clé du succès n’est pas de travailler dur. C’est de travailler intelligemment "</em></strong><br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -202,5 +205,9 @@ Plus vous travaillez, moins vous gagnez en efficacité et en productivité, à c
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Traduction de l'article  <strong><a href="https://medium.com/s/story/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6">7 Things to Start Being More Productive, Today  </a></strong>  de<a href="https://medium.com/@cammipham"> CamMi Pham</a> </p>
+<p>Traduction de l'article  <strong><a href="https://medium.com/s/story/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6">7 Things to Start Being More Productive, Today  </a></strong>  de<a href="https://medium.com/@cammipham"> CamMi Pham</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Retrouvez Les 7 habitudes de ceux qui réussissent tous ce qu'ils entreprennent :  <a href="http://www.ayokafrica.com/product/les-7-habitudes-de-ceux-qui-realisent-tout-ce-quils-entreprennent/">ici</a>.</p>
 <!-- /wp:paragraph -->
