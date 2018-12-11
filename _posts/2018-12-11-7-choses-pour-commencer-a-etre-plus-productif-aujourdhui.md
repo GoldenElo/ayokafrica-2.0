@@ -15,16 +15,12 @@ published: true
 post_date: 2018-12-11 23:50:59
 ---
 <!-- wp:paragraph -->
-<p>Grace à cet article découvrez comment améliorer votre productivité</p>
+<p>Dans cet article <a href="https://medium.com/@cammipham">CamMi Pham </a>nous raconte comment elle sa améliorer sa productivité par des actions simples.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
 <h4><strong>Introduction</strong></h4>
 <!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>Quand j'avais 17 ans, je travaillais et étudiais environ 20 heures par jour. J’allais à l'école, je faisais mes devoirs pendant les pauses et gérais un organisme à but non lucratif le soir. À cette époque, travailler de longues heures me valait d'innombrables campagnes nationales, des opportunités de travailler avec des organisations de premier plan et une carrière réussie. En vieillissant, j'ai commencé à penser différemment. J'ai réalisé que travailler plus n'était pas toujours la bonne ou la seule voie du succès.</p>
@@ -87,7 +83,11 @@ Plus vous travaillez, moins vous gagnez en efficacité et en productivité, à c
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Dans un article pour AlterNet, la rédactrice en chef Sara Robinson a fait référence à une étude menée par l'armée américaine qui a révélé que "perdre une heure de sommeil par nuit pendant une semaine entraînerait un niveau de dégradation cognitive équivalent à un taux d'alcoolémie de 10." Vous pouvez vous faire virer pour venir au travail ivre, mais il est acceptable de passer une nuit blanche.<br>Indépendamment de votre capacité à bien vous occuper de vos activités de la journée après cette dernière nuit sans sommeil, il est peu probable que vous vous sentiez particulièrement optimiste et joyeux à propos du monde. Votre perspective plus négative que d'habitude aura résulté d'une humeur basse généralisée, qui est une conséquence normale de l'épuisement. Plus important que l'humeur, cet état d'esprit s'accompagne souvent d'une diminution de la volonté de penser et d'agir de manière proactive, de contrôler ses impulsions, de se sentir positif envers soi-même, de faire preuve d'empathie envers les autres et de faire généralement appel à son intelligence émotionnelle.</p>
+<p>Dans un article pour AlterNet, la rédactrice en chef Sara Robinson a fait référence à une étude menée par l'armée américaine qui a révélé que "perdre une heure de sommeil par nuit pendant une semaine entraînerait un niveau de dégradation cognitive équivalent à un taux d'alcoolémie de 10." Vous pouvez vous faire virer pour venir au travail ivre, mais il est acceptable de passer une nuit blanche.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Indépendamment de votre capacité à bien vous occuper de vos activités de la journée après cette dernière nuit sans sommeil, il est peu probable que vous vous sentiez particulièrement optimiste et joyeux à propos du monde. Votre perspective plus négative que d'habitude aura résulté d'une humeur basse généralisée, qui est une conséquence normale de l'épuisement. Plus important que l'humeur, cet état d'esprit s'accompagne souvent d'une diminution de la volonté de penser et d'agir de manière proactive, de contrôler ses impulsions, de se sentir positif envers soi-même, de faire preuve d'empathie envers les autres et de faire généralement appel à son intelligence émotionnelle.<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
