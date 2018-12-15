@@ -8,55 +8,7 @@ permalink: http://www.ayokafrica.com/
 published: true
 post_date: 2018-07-12 21:47:47
 ---
-<div  data-label="Overlappable" data-id="overlappable--1" data-export-id="overlappable-5-materialis" data-category="overlappable" class="overlappable-5-materialis content-section content-section-spacing-large" data-overlap="true" id="overlappable-1" style="background-color: #f5fafd; background-image: none;">
-<div  class="gridContainer">
-<div  data-type="row" class="row spaced-cols ">
-<div  class="col-sm-6 col-md-4 ">
-<div  class="card mdc-elevation--z3 row-card">
-<div  class="row">
-<div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
-<div  class="col-sm" data-type="column">
-<h4  class="color-black">Pour la révolution africaine</h4>
-<p  class="">Si tu ne veux pas l’homme qui est en face de toi, comment croirais-je à l’homme qui peut-être en toi?</p>
-
-– Frantz Fanon –
-
-</div>
-</div>
-</div>
-</div>
-<div  class="col-sm-6 col-md-4 ">
-<div  class="card mdc-elevation--z3 row-card">
-<div  class="row">
-<div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-audiobook reverse round big"></i></div>
-<div  class="col-sm" data-type="column">
-<h4  class="color-black">Nations nègres et cultures</h4>
-<p  class="">La facilité avec laquelle nous renonçons, souvent, à notre culture ne s’explique que par notre ignorance de celle-ci.</p>
-
-– Cheick Anta Diop –
-
-</div>
-</div>
-</div>
-</div>
-<div  class="col-sm-6 col-md-4">
-<div  class="card mdc-elevation--z3 row-card">
-<div  class="row">
-<div  class="col-sm-fit icon-col"><i  class="color1 icon mdi mdi-book-open-page-variant reverse round big"></i></div>
-<div  class="col-sm" data-type="column">
-<h4  class="color-black">Petit Bodiel</h4>
-<p  class="">Courage Petit Bodiel ! Il faut oser, car l’audace est souvent un gage de succès sur cette terre où la filouterie est chose courante.
-
-
--Amadou Hampâté Bâ –</p>
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div><div  data-label="About" data-id="about--2" data-export-id="about-4" data-category="about" class="about-4 content-section content-section-spacing-large" id="about-2" style="background-color: #ffffff;">
+<div  data-label="About" data-id="about--2" data-export-id="about-4" data-category="about" class="about-4 content-section content-section-spacing-large" id="about-2" style="background-color: #ffffff;">
 <div  class="gridContainer">
 <div  class="row middle-sm text-center">
 <div  class="col-sm-5 space-bottom-xs" data-type="column">
@@ -66,7 +18,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <a  class="button big color1 mdc-ripple-upgraded" href="http://www.ayokafrica.com/www.ayokafrica.com/catalogue" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 120.165px; --mdc-ripple-fg-scale: 1.80854;">Notre catalogue</a>
 
 </div>
-<div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom"><img  class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-athlete-1840437_1920-1.jpg"> <img  class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-macbook-2617385_1920-Copie-1.jpg"></div>
+<div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom"><img  class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-macbook-2617385_1920.jpg"> <img  class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-henry-be-228194-unsplash-1024x666-2.jpg"></div>
 </div>
 </div>
 </div><div  data-label="Portfolio" data-id="portfolio--1" data-export-id="portfolio-1-materialis" data-category="portfolio" class="portfolio-1-materialis content-section" id="portfolio-1" style="background-color: #ffffff;">
