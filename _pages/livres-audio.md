@@ -135,7 +135,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="col-sm-7 flexbox flexbox middle-xs center-xs">
 <div  class="overlay-box flexbox middle-xs center-xs overlay-holder ">
 <div  class="overlay-box-offset offset-background mdc-elevation--z5 bg-color2 border-radius-8"></div>
-<img  class="flexbox mdc-elevation--z10 img1 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/10/cropped-rap-1713404.jpg">
+<img  class="flexbox mdc-elevation--z10 img1 rounded" src="http://www.ayokafrica.com/wp-content/uploads/2018/12/DSC_0666.jpg">
 
 </div>
 </div>
