@@ -99,7 +99,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="col-md-10 col-md-offset-1 ">
 <div  class="row space-top spaced-cols content-center-sm" data-type="row">
 <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-human-child reverse round big"></i> <a  class="link" href="https://bit.ly/2Ew3nLL" target="_self" data-cp-link="1">Entrepreneuriat</a></div>
+<div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-human-child reverse round big"></i> <a  class="link" href="https://bit.ly/2Ew3nLL" target="_self" data-cp-link="1">Entrepreneuriat et Management</a></div>
 </div>
 <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
 <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column"><i  class="mdi icon color1 mdi-run-fast reverse round big"></i> <a  class="link" target="_self" data-cp-link="1" href="https://bit.ly/2Sqqvy6">Développement personnel</a></div>
