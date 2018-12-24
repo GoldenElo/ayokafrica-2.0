@@ -15,7 +15,7 @@ published: true
 post_date: 2018-12-11 23:50:59
 ---
 <!-- wp:paragraph -->
-<p>Dans cet article <a href="https://medium.com/@cammipham">CamMi Pham </a>nous raconte comment elle sa améliorer sa productivité par des actions simples.</p>
+<p>Dans cet article&nbsp;<a href="https://medium.com/@cammipham">CamMi Pham </a>nous raconte comment elle sa améliorer sa productivité par des actions simples.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
@@ -71,7 +71,7 @@ Plus vous travaillez, moins vous gagnez en efficacité et en productivité, à c
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><em>Source : Calculating Loss of Productivity Due to Overtime Using Published Charts?—?Fact or Fiction</em></p>
+<p><em>Source : Calculating Loss of Productivity Due to Overtime Using Published Charts?—?Fact or&nbsp;Fiction</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -139,7 +139,7 @@ Plus vous travaillez, moins vous gagnez en efficacité et en productivité, à c
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><br>  ?<em>Réduisez l’énergie d’activation des habitudes que vous souhaitez adopter et augmentez-la pour les habitudes que vous souhaitez éviter. Plus nous pouvons réduire, voire éliminer, l'énergie d'activation de nos actions souhaitées, plus nous améliorons notre capacité à déclencher un changement positif.</em></p><cite><br>  Source : L'avantage du bonheur : Les sept principes de la psychologie positive qui alimentent le succès et la performance au travail</cite></blockquote>
+<blockquote class="wp-block-quote"><p><br>&nbsp;&nbsp;?<em>Réduisez l’énergie d’activation des habitudes que vous souhaitez adopter et augmentez-la pour les habitudes que vous souhaitez éviter. Plus nous pouvons réduire, voire éliminer, l'énergie d'activation de nos actions souhaitées, plus nous améliorons notre capacité à déclencher un changement positif.</em></p><cite><br>&nbsp;&nbsp;Source : L'avantage du bonheur : Les sept principes de la psychologie positive qui alimentent le succès et la performance au travail</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -163,7 +163,7 @@ Plus vous travaillez, moins vous gagnez en efficacité et en productivité, à c
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><br><em>Le simple fait d'avoir des amis à proximité peut vous pousser à la productivité. « Il existe un concept dans le traitement du TDAH appelé « double corps » », explique David Nowell, Ph.D., neuropsychologue clinique de Worcester, dans le Massachusetts. « Les personnes distraites accomplissent plus de travail quand il y a quelqu'un d'autre sur place, même s'il ne l'encadre pas ou ne l'assiste pas. » Si vous faites face à une tâche ennuyeuse ou difficile, comme nettoyer vos placards ou rassembler vos reçus pour le temps des impôts, demandez à un ami d’être votre double.</em></p><cite><br>  Source : Friendfluence: Les façons surprenantes que les amis font de nous qui nous sommes</cite></blockquote>
+<blockquote class="wp-block-quote"><p><br><em>Le simple fait d'avoir des amis à proximité peut vous pousser à la productivité. « Il existe un concept dans le traitement du TDAH appelé « double corps » », explique David Nowell, Ph.D., neuropsychologue clinique de Worcester, dans le Massachusetts. « Les personnes distraites accomplissent plus de travail quand il y a quelqu'un d'autre sur place, même s'il ne l'encadre pas ou ne l'assiste pas. » Si vous faites face à une tâche ennuyeuse ou difficile, comme nettoyer vos placards ou rassembler vos reçus pour le temps des impôts, demandez à un ami d’être votre double.</em></p><cite><br>&nbsp;&nbsp;Source : Friendfluence: Les façons surprenantes que les amis font de nous qui nous sommes</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -227,17 +227,17 @@ Plus vous travaillez, moins vous gagnez en efficacité et en productivité, à c
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><br><em>Une étude en cours à Harvard indique que les gens forment des souvenirs plus durables et plus précis s’ils pensent vivre quelque chose seuls. Un autre indique qu'une certaine solitude peut rendre une personne plus capable d'empathie envers les autres. Et bien que personne ne conteste le fait que trop d'isolement au début de la vie peut être néfaste pour la santé, il a été démontré qu'une certaine solitude aidait les adolescents à améliorer leur humeur et à obtenir de bonnes notes à l'école.?</em></p><cite><br> Source : Le pouvoir du solitaire</cite></blockquote>
+<blockquote class="wp-block-quote"><p><br><em>Une étude en cours à Harvard indique que les gens forment des souvenirs plus durables et plus précis s’ils pensent vivre quelque chose seuls. Un autre indique qu'une certaine solitude peut rendre une personne plus capable d'empathie envers les autres. Et bien que personne ne conteste le fait que trop d'isolement au début de la vie peut être néfaste pour la santé, il a été démontré qu'une certaine solitude aidait les adolescents à améliorer leur humeur et à obtenir de bonnes notes à l'école.?</em></p><cite><br>&nbsp;Source : Le pouvoir du solitaire</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p><br> Il est important de prendre le temps de réfléchir. Nous trouvons souvent les solutions que nous recherchons lorsque nous ne sommes pas activement en train de les rechercher.<br><br>Il est également important de comprendre que nous ne devenons pas plus productifs du jour au lendemain. Comme tout dans la vie, cela nécessite des efforts et de la pratique. Le changement ne se produit pas simplement en l’attendant. Au lieu de cela, prenez le temps d’en apprendre plus sur votre corps et de trouver des moyens concrets d’optimiser votre énergie et votre temps pour une vie plus réussie et plus heureuse.</p>
+<p><br>&nbsp;Il est important de prendre le temps de réfléchir. Nous trouvons souvent les solutions que nous recherchons lorsque nous ne sommes pas activement en train de les rechercher.<br><br>Il est également important de comprendre que nous ne devenons pas plus productifs du jour au lendemain. Comme tout dans la vie, cela nécessite des efforts et de la pratique. Le changement ne se produit pas simplement en l’attendant. Au lieu de cela, prenez le temps d’en apprendre plus sur votre corps et de trouver des moyens concrets d’optimiser votre énergie et votre temps pour une vie plus réussie et plus heureuse.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Traduction de l'article  <strong><a href="https://medium.com/s/story/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6">7 Things to Start Being More Productive, Today  </a></strong>  de<a href="https://medium.com/@cammipham"> CamMi Pham</a></p>
+<p>Traduction de l'article&nbsp;&nbsp;<strong><a href="https://medium.com/s/story/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6">7 Things to Start Being More Productive, Today&nbsp;&nbsp;</a></strong>&nbsp; de<a href="https://medium.com/@cammipham">&nbsp;CamMi Pham</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Retrouvez Les 7 habitudes de ceux qui réussissent tous ce qu'ils entreprennent :  <a href="http://www.ayokafrica.com/product/les-7-habitudes-de-ceux-qui-realisent-tout-ce-quils-entreprennent/">ici</a>.</p>
+<p>Retrouvez Les 7 habitudes de ceux qui réussissent tous ce qu'ils entreprennent :&nbsp;&nbsp;<a href="http://www.ayokafrica.com/product/les-7-habitudes-de-ceux-qui-realisent-tout-ce-quils-entreprennent/">ici</a>.</p>
 <!-- /wp:paragraph -->
