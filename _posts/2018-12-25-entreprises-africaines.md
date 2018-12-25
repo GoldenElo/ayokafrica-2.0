@@ -8,12 +8,12 @@ author: goldenelo
 post_excerpt: 'Breaking News : votre site internet reflète quelle entreprise vous voulez que vos clients et prospects croient que vous êtes. Il en va de même pour votre page Facebook, Instagram and so on…'
 layout: post
 permalink: >
-  http://www.ayokafrica.com/2018/12/25/limportance-de-lidentite-numerique-pour-les-entreprises-africaines/
+  http://www.ayokafrica.com/2018/12/25/entreprises-africaines/
 published: true
 post_date: 2018-12-25 11:31:40
 ---
 <!-- wp:paragraph -->
-<p> Dans mon post, je vais m’attarder sur le cas de la Côte d’Ivoire. Les idées émises sont valables pour toute l’Afrique, et même pour tous les pays émergents à travers le monde. </p>
+<p>L'identité numérique des entreprises africaines, vaste sujet. Dans mon post, je vais m’attarder sur le cas de la Côte d’Ivoire. Les idées émises sont valables pour toute l’Afrique, et même pour tous les pays émergents à travers le monde.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -229,5 +229,5 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Plus d'article autours de entrepreneuriat en Afrique ici.</p>
+<p>Plus d'article autours de entrepreneuriat en Afrique <a href="http://www.ayokafrica.com/blog/">ici</a>.</p>
 <!-- /wp:paragraph -->
