@@ -49,11 +49,11 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Le site web :</strong> internet étant un vaste réseau où chacun peut dire à peu près ce qu’il veut, il est compliqué voire, impossible de contrôler ce qui se dit sur vous. Cependant, l’internaute lambda aura tendance à croire ce que vous dites de vous. La première image qu’il aura de vous est ce que votre site web officiel reflète. Il est donc primordial que celui-ci soit à l’image de vos ambitions. Pour une entreprise avec des ambitions internationales, tournée vers l’avenir et moderne, il faut un site à la pointe du design.  </p>
+<p><strong>Le site web :</strong>&nbsp;internet étant un vaste réseau où chacun peut dire à peu près ce qu’il veut, il est compliqué voire, impossible de contrôler ce qui se dit sur vous. Cependant, l’internaute lambda aura tendance à croire ce que vous dites de vous. La première image qu’il aura de vous est ce que votre site web officiel reflète. Il est donc primordial que celui-ci soit à l’image de vos ambitions. Pour une entreprise avec des ambitions internationales, tournée vers l’avenir et moderne, il faut un site à la pointe du design.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Aujourd’hui avec « l’uberisation », aucun secteur n’est épargné. Par conséquent, peu importe votre activité, un site web de qualité fera la différence entre vous et vos concurrents.</p>
+<p>Aujourd’hui avec «&nbsp;l’uberisation&nbsp;», aucun secteur n’est épargné. Par conséquent, peu importe votre activité, un site web de qualité fera la différence entre vous et vos concurrents.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -85,7 +85,7 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Cela peut s’étendre à l’Africain noir qui aura deux fois plus de boulot à accomplir pour obtenir deux fois moins que les autres à cause de cette image qui accable l’Afrique. Comme le disait le papa Pope dans Scandal : « <em>You have</em> to be <em>twice</em> as good as them to <em>get</em> half of what they <em>have</em>! » (quelques fois, on entend des choses sensées à la Télé).</p>
+<p>Cela peut s’étendre à l’Africain noir qui aura deux fois plus de boulot à accomplir pour obtenir deux fois moins que les autres à cause de cette image qui accable l’Afrique. Comme le disait le papa Pope dans Scandal : «&nbsp;<em>You have</em>&nbsp;to be&nbsp;<em>twice</em>&nbsp;as good as them to&nbsp;<em>get</em>&nbsp;half of what they&nbsp;<em>have</em>!&nbsp;» (quelques fois, on entend des choses sensées à la Télé).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -125,11 +125,11 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Un design moderne, ça inspire confiance :</strong> comme je le disais plus haut, un site bien fait, ça inspire confiance, surtout pour une compagnie aérienne. Étant donné le prix des billets et la complexité que cela représente de faire voler un avion, comment faire confiance à une compagnie dont le site officiel à l’air de dater de la fin des années 90 ?</p>
+<p><strong>Un design moderne, ça inspire confiance :</strong>&nbsp;comme je le disais plus haut, un site bien fait, ça inspire confiance, surtout pour une compagnie aérienne. Étant donné le prix des billets et la complexité que cela représente de faire voler un avion, comment faire confiance à une compagnie dont le site officiel à l’air de dater de la fin des années 90 ?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p> Le petit message « info » qui défile en rouge, les images utilisées, les couleurs, la disposition. Pour illustrer mon propos, je vous laisser jeter un œil au site <a rel="noreferrer noopener" href="https://www.ethiopianairlines.com/" target="_blank">d’Ethiopian Airlines</a>. Il n’est pas parfait, mais à choisir, à qui seriez vous prêt à faire confiance pour voler ?</p>
+<p> Le petit message «&nbsp;info&nbsp;» qui défile en rouge, les images utilisées, les couleurs, la disposition. Pour illustrer mon propos, je vous laisser jeter un œil au site&nbsp;<a rel="noreferrer noopener" href="https://www.ethiopianairlines.com/" target="_blank">d’Ethiopian Airlines</a>. Il n’est pas parfait, mais à choisir, à qui seriez vous prêt à faire confiance pour voler ?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -221,11 +221,11 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Il y a également le groupe de développeurs ivoiriens : <a href="http://slack.codedivoire.com./">codedivoire.</a> qui est animé par des personnes motivées et, je n’en doute pas, talentueuses.<br>Si vous en connaissez d’autres n’hésitez pas à laisser un commentaire sur le post.</p>
+<p>Il y a également le groupe de développeurs ivoiriens :&nbsp;<a href="http://slack.codedivoire.com./">codedivoire.</a>&nbsp;qui est animé par des personnes motivées et, je n’en doute pas, talentueuses.<br>Si vous en connaissez d’autres n’hésitez pas à laisser un commentaire sur le post.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Source : <a href="https://opensourceforafrica.com/2018/05/01/limportance-de-lidentite-visuelle-pour-les-entreprises-africaines/">Opensource4africa </a></p>
+<p>Source : <a href="https://opensourceforafrica.com/2018/05/01/limportance-de-lidentite-visuelle-pour-les-entreprises-africaines/">Opensource4africa&nbsp;</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
