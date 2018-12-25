@@ -49,7 +49,7 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Le site web :</strong> internet étant un vaste réseau où chacun peut dire à peu près ce qu’il veut, il est compliqué voire, impossible de contrôler ce qui se dit sur vous. Cependant, l’internaute lambda aura tendance à croire ce que vous dites de vous. La première image qu’il aura de vous est ce que votre site web officiel reflète. Il est donc primordial que celui-ci soit à l’image de vos ambitions. Pour une entreprise avec des ambitions internationales, tournée vers l’avenir et moderne, il faut un site à la pointe du design. Pour ce type d'entreprise, le site sera donc ergonomique, les moindre détails seront pensés pour rendre l’expérience utilisateur la plus agréable possible. Si vous ne le faites pas, vos concurrents le feront. </p>
+<p><strong>Le site web :</strong> internet étant un vaste réseau où chacun peut dire à peu près ce qu’il veut, il est compliqué voire, impossible de contrôler ce qui se dit sur vous. Cependant, l’internaute lambda aura tendance à croire ce que vous dites de vous. La première image qu’il aura de vous est ce que votre site web officiel reflète. Il est donc primordial que celui-ci soit à l’image de vos ambitions. Pour une entreprise avec des ambitions internationales, tournée vers l’avenir et moderne, il faut un site à la pointe du design.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -77,7 +77,15 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Dans la plupart des médias (occidentaux particulièrement), l’Afrique est associée à des immigrés qui meurent en essayant absolument de rejoindre l’Europe, aux maladies, à la guerre et à la pauvreté et surtout aux arnaques sur internet. Ce serait mentir de dire que c’est totalement faux. Mais, l’Afrique, c’est comme ailleurs : il y a du bon et du moins bon… Mais ce n’est pas le sujet de l’article. L’image de l’Afrique étant ce qu’elle est, les entreprises africaines (malheureusement pour elles) ont plus à faire que les autres. Cela peut s’étendre à l’Africain noir qui aura deux fois plus de boulot à accomplir pour obtenir deux fois moins que les autres à cause de cette image qui accable l’Afrique. Comme le disait le papa Pope dans Scandal : «&nbsp;<em>You have</em>&nbsp;to be&nbsp;<em>twice</em>&nbsp;as good as them to&nbsp;<em>get</em>&nbsp;half of what they&nbsp;<em>have</em>!&nbsp;» (quelques fois, on entend des choses sensées à la Télé).</p>
+<p>Dans la plupart des médias (occidentaux particulièrement), l’Afrique est associée à des immigrés qui meurent en essayant absolument de rejoindre l’Europe, aux maladies, à la guerre et à la pauvreté et surtout aux arnaques sur internet. Ce serait mentir de dire que c’est totalement faux. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais, l’Afrique, c’est comme ailleurs : il y a du bon et du moins bon… Mais ce n’est pas le sujet de l’article. L’image de l’Afrique étant ce qu’elle est, les entreprises africaines (malheureusement pour elles) ont plus à faire que les autres. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cela peut s’étendre à l’Africain noir qui aura deux fois plus de boulot à accomplir pour obtenir deux fois moins que les autres à cause de cette image qui accable l’Afrique. Comme le disait le papa Pope dans Scandal : « <em>You have</em> to be <em>twice</em> as good as them to <em>get</em> half of what they <em>have</em>! » (quelques fois, on entend des choses sensées à la Télé).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -89,7 +97,15 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Un site Ivoirien bien fait, c’est peut-être une goutte d’eau dans l’océan qu’est internet, mais cela montre qu’en Côte d’Ivoire, il y a des développeurs talentueux, capables de produire un travail qui n’a pas à rougir devant ce que peuvent produire des grosses boîtes de l’industrie du web. S’il s’agit en plus d’un site institutionnel ou à forte visibilité (compagnie aérienne, aéroport, présidence, mairie d’Abidjan), c’est d’autant plus valorisant pour le savoir faire Ivoirien. Cerise sur le gâteau : cela montre une certaine autosuffisance technologique ; nous sommes capables en Côte d’Ivoire de produire de la qualité. Deuxième cerise sur le gâteau, non, cube maggi dans le garba, cela augmente le capital fierté et financier de l’entreprise ayant réalisé le site.</p>
+<p>Un site Ivoirien bien fait, c’est peut-être une goutte d’eau dans l’océan qu’est internet, mais cela montre qu’en Côte d’Ivoire, il y a des développeurs talentueux, capables de produire un travail qui n’a pas à rougir devant ce que peuvent produire des grosses boîtes de l’industrie du web. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>S’il s’agit en plus d’un site institutionnel ou à forte visibilité (compagnie aérienne, aéroport, présidence, mairie d’Abidjan), c’est d’autant plus valorisant pour le savoir faire Ivoirien. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cerise sur le gâteau : cela montre une certaine autosuffisance technologique ; nous sommes capables en Côte d’Ivoire de produire de la qualité. Deuxième cerise sur le gâteau, non, cube maggi dans le garba, cela augmente le capital fierté et financier de l’entreprise ayant réalisé le site.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
@@ -109,7 +125,11 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Un design moderne, ça inspire confiance :</strong>&nbsp;comme je le disais plus haut, un site bien fait, ça inspire confiance, surtout pour une compagnie aérienne. Étant donné le prix des billets et la complexité que cela représente de faire voler un avion, comment faire confiance à une compagnie dont le site officiel à l’air de dater de la fin des années 90 ? Le petit message «&nbsp;info&nbsp;» qui défile en rouge, les images utilisées, les couleurs, la disposition. Pour illustrer mon propos, je vous laisser jeter un œil au site&nbsp;<a href="https://www.ethiopianairlines.com/" target="_blank" rel="noreferrer noopener">d’Ethiopian Airlines</a>. Il n’est pas parfait, mais à choisir, à qui seriez vous prêt à faire confiance pour voler ?</p>
+<p><strong>Un design moderne, ça inspire confiance :</strong> comme je le disais plus haut, un site bien fait, ça inspire confiance, surtout pour une compagnie aérienne. Étant donné le prix des billets et la complexité que cela représente de faire voler un avion, comment faire confiance à une compagnie dont le site officiel à l’air de dater de la fin des années 90 ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> Le petit message « info » qui défile en rouge, les images utilisées, les couleurs, la disposition. Pour illustrer mon propos, je vous laisser jeter un œil au site <a rel="noreferrer noopener" href="https://www.ethiopianairlines.com/" target="_blank">d’Ethiopian Airlines</a>. Il n’est pas parfait, mais à choisir, à qui seriez vous prêt à faire confiance pour voler ?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -121,7 +141,15 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ce site web ne reflète pas l’ambition affichée par Air Côte d’Ivoire. On ne retrouve pas une entreprise moderne qui a envie de conquérir des clients dans toute l’Afrique et dans le monde. On voit plutôt une entreprise figée dans le temps, une entreprise qui regarde en arrière au lieu de regarder vers l’avenir. Bien sûr ce n’est peut-être pas le cas dans la réalité. Air Côte d’Ivoire est peut-être une entreprise avec des fortes ambitions. Mais un site web mal fait renvoie une image négative et fait perdre des clients potentiels. Cela ternit aussi l’image du pays, car une compagnie nationale fait partie des symboles d’un pays.</p>
+<p>Ce site web ne reflète pas l’ambition affichée par Air Côte d’Ivoire. On ne retrouve pas une entreprise moderne qui a envie de conquérir des clients dans toute l’Afrique et dans le monde. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On voit plutôt une entreprise figée dans le temps, une entreprise qui regarde en arrière au lieu de regarder vers l’avenir. Bien sûr ce n’est peut-être pas le cas dans la réalité. Air Côte d’Ivoire est peut-être une entreprise avec des fortes ambitions. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais un site web mal fait renvoie une image négative et fait perdre des clients potentiels. Cela ternit aussi l’image du pays, car une compagnie nationale fait partie des symboles d’un pays.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -133,7 +161,15 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Première chose à faire, bien choisir l’entreprise qui sera votre partenaire dans la réalisation de votre site. J’ai bien dit partenaire. En effet, c’est un travail dans lequel l’entreprise ou l’institution concernée doit s’impliquer fortement. Si le représentant de l’entreprise ou de la structure ne se sent pas concerné par le fait que le site soit bien élaboré, le projet a de fortes chances de se solder par un résultat médiocre. Faites-en une affaire importante et la boîte qui vous accompagne en fera de même. En résumé croyez-y parce que c’est votre projet ! Il en va de l’image de votre entreprise, de votre pays à travers le monde.</p>
+<p>Première chose à faire, bien choisir l’entreprise qui sera votre partenaire dans la réalisation de votre site. J’ai bien dit partenaire. En effet, c’est un travail dans lequel l’entreprise ou l’institution concernée doit s’impliquer fortement. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si le représentant de l’entreprise ou de la structure ne se sent pas concerné par le fait que le site soit bien élaboré, le projet a de fortes chances de se solder par un résultat médiocre. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Faites-en une affaire importante et la boîte qui vous accompagne en fera de même. En résumé croyez-y parce que c’est votre projet ! Il en va de l’image de votre entreprise, de votre pays à travers le monde.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
