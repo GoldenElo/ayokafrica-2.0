@@ -225,5 +225,9 @@ L’identité numérique, c’est l’ensemble des informations (articles, photo
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Source : <a href="https://opensourceforafrica.com/2018/05/01/limportance-de-lidentite-visuelle-pour-les-entreprises-africaines/?">Opensource4africa </a></p>
+<p>Source : <a href="https://opensourceforafrica.com/2018/05/01/limportance-de-lidentite-visuelle-pour-les-entreprises-africaines/">Opensource4africa </a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Plus d'article autours de entrepreneuriat en Afrique ici.</p>
 <!-- /wp:paragraph -->
