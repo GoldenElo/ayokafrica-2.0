@@ -56,13 +56,13 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 </div>
 <div  class="col-sm-6 col-xs-12 no-gutter-col col-md-3">
 <div  class="contentswap-effect" data-hover-fx="portfolio-1">
-<div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2018/12/cropped-ayokafrica.com-2.png"></div>
+<div  class="initial-image"><img  data-size="600x354" src="http://www.ayokafrica.com/wp-content/uploads/2019/02/cropped-IMG-20181221-WA0012-1.jpg"></div>
 <div  class="overlay bg-color-black"></div>
 <div  class="swap-inner col-xs-12">
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">Les 7 habitudes de ceux qui réalisent tout ce qu’ils entreprennent</h4>
-<a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/product/les-7-habitudes-de-ceux-qui-realisent-tout-ce-quils-entreprennent/#tab-additional_information" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
+<h4  class="font-500">Spiritualité africaine : Comment suis-je devenu kamite ? </h4>
+<a  class="button color-white mdc-ripple-upgraded" href="http://www.ayokafrica.com/product/spiritualite-africaine/#tab-additional_information" target="_self" data-cp-link="1" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;">Ecoutez maintenant</a>
 
 </div>
 </div>
