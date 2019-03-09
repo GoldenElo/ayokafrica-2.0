@@ -41,13 +41,13 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 </div>
 <div  class="col-sm-6 col-xs-12 no-gutter-col col-md-3">
 <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
-<div  class="initial-image" style="float: none; margin: 0px;"><img  src="http://www.ayokafrica.com/wp-content/uploads/2018/07/cropped-003484-4.jpg" data-size="600x354"></div>
+<div  class="initial-image" style="float: none; margin: 0px;"><img  src="http://www.ayokafrica.com/wp-content/uploads/2019/03/cropped-81jfJUEh2AL.jpg" data-size="600x354"></div>
 <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;"></div>
 <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">Discours de Thomas Sankara à Addis Abeba</h4>
-<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 0px; --mdc-ripple-fg-scale: Infinity;" href="http://www.ayokafrica.com/product/thomas_sankara_sommet" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
+<h4  class="font-500">Les 4 accords toltèques - Livre audio gratuit complet</h4>
+<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 0px; --mdc-ripple-fg-scale: Infinity;" href="http://www.ayokafrica.com/product/les-quatre-accords-tolteques-livre-audio-gratuit/#tab-additional_information" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
 
 </div>
 </div>
