@@ -32,7 +32,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Père riche, Père pauvre</h4>
-<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 0px; --mdc-ripple-fg-scale: Infinity;" href="http://www.ayokafrica.com/product/pere-riche-pere-pauvre-robert-kiyosaki/#tab-additional_information" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;" href="http://www.ayokafrica.com/product/pere-riche-pere-pauvre-robert-kiyosaki/#tab-additional_information" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -46,8 +46,8 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
-<h4  class="font-500">Les 4 accords toltèques - Livre audio gratuit complet</h4>
-<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 0px; --mdc-ripple-fg-scale: Infinity;" href="http://www.ayokafrica.com/product/les-quatre-accords-tolteques-livre-audio-gratuit/#tab-additional_information" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
+<h4  class="font-500">Les 4 accords toltèques – Livre audio gratuit complet</h4>
+<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;" href="http://www.ayokafrica.com/product/les-quatre-accords-tolteques-livre-audio-gratuit/#tab-additional_information" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -62,7 +62,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Spiritualité africaine : Comment suis-je devenu kamite ?</h4>
-<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 0px; --mdc-ripple-fg-scale: Infinity;" href="http://www.ayokafrica.com/product/spiritualite-africaine/#tab-additional_information" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;" href="http://www.ayokafrica.com/product/spiritualite-africaine/#tab-additional_information" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
 
 </div>
 </div>
@@ -77,7 +77,7 @@ Vous êtes étudiant, entrepreneur, salarié, vous avez besoin de booster votre 
 <div  class="row full-height-row middle-xs">
 <div  class="col-xs-12 text-center white-text">
 <h4  class="font-500">Like A Boss, le guide des jeunes professionnels ambitieux</h4>
-<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 0px; --mdc-ripple-fg-scale: Infinity;" href="http://www.ayokafrica.com/product/like-a-boss-livre-audio-gratuit" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
+<a  class="button color-white mdc-ripple-upgraded" style="--mdc-ripple-fg-size: 104.843px; --mdc-ripple-fg-scale: 1.80516;" href="http://www.ayokafrica.com/product/like-a-boss-livre-audio-gratuit" target="_self" data-cp-link="1" rel="noopener noreferrer">Ecoutez maintenant</a>
 
 </div>
 </div>
